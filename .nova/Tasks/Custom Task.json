@@ -1,0 +1,11 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "cd ~\/dev\/sarahavenir.com\ngatsby develop"
+    }
+  },
+  "identifier" : "0E33CE19-CA61-4B5C-8BD0-E139FE38CCB9",
+  "openLogOnRun" : "start",
+  "persistent" : true
+}

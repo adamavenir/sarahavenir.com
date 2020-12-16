@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sarah Avenir`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sarah Avenir`,
+      summary: `who is amazing.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Sarah’s home, home on the web.`,
+    siteUrl: `https://sarahavenir.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sarahavenir`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Sarah Aavenir`,
+        short_name: `sarahavenir.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
