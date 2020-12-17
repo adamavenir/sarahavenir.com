@@ -5,7 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const SiteIndex = ({ data, location }) => {
+const ReadingIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -14,7 +14,7 @@ const SiteIndex = ({ data, location }) => {
       <Layout location={location} title={siteTitle}>
         <SEO title="👋 Hi!" />
         <Bio />
-        <p>No pages found. Add markdown posts to "content/pages".</p>
+        <p>No readings found. Add markdown posts to "content/reading".</p>
       </Layout>
     )
   }
@@ -62,7 +62,7 @@ const SiteIndex = ({ data, location }) => {
   )
 }
 
-export default SiteIndex
+export default ReadingIndex
 
 export const pageQuery = graphql`
   query {
@@ -72,7 +72,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fields: { collection: { eq: "pages" } } }
+      filter: { fields: { collection: { eq: "reading" } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       nodes {

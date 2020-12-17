@@ -5,7 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const SiteIndex = ({ data, location }) => {
+const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -14,7 +14,11 @@ const SiteIndex = ({ data, location }) => {
       <Layout location={location} title={siteTitle}>
         <SEO title="👋 Hi!" />
         <Bio />
-        <p>No pages found. Add markdown posts to "content/pages".</p>
+        <p>
+          No blog posts found. Add markdown posts to "content/blog" (or the
+          directory you specified for the "gatsby-source-filesystem" plugin in
+          gatsby-config.js).
+        </p>
       </Layout>
     )
   }
@@ -40,19 +44,16 @@ const SiteIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
+                  <small>{post.frontmatter.date}</small>
                 </header>
-                {post.frontmatter.description ? (
-                  <section>
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description,
-                      }}
-                      itemProp="description"
-                    />
-                  </section>
-                ) : (
-                  ""
-                )}
+                <section>
+                  <p
+                    dangerouslySetInnerHTML={{
+                      __html: post.frontmatter.description || post.excerpt,
+                    }}
+                    itemProp="description"
+                  />
+                </section>
               </article>
             </li>
           )
@@ -62,7 +63,7 @@ const SiteIndex = ({ data, location }) => {
   )
 }
 
-export default SiteIndex
+export default BlogIndex
 
 export const pageQuery = graphql`
   query {
@@ -72,7 +73,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fields: { collection: { eq: "pages" } } }
+      filter: { fields: { collection: { eq: "blog" } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       nodes {

@@ -1,11 +1,50 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const _ = require(`lodash`)
+
+exports.onCreateNode = ({ node, actions, getNode }) => {
+  const { createNodeField } = actions
+
+  // convert images to relative path
+
+  if (_.get(node, "internal.type") === `MarkdownRemark`) {
+    const parent = getNode(_.get(node, "parent"))
+    let slug
+
+    if (node.frontmatter.slug) {
+      // if a slug is defined, use that.
+      slug = "/" + node.frontmatter.slug
+      // console.log("slug from frontmatter", slug)
+    } else {
+      // otherwise use the file path
+      slug = createFilePath({ node, getNode })
+      // console.log("slug from path", slug)
+    }
+
+    // TODO: may need to handle blog posts with set slugs differently
+
+    // create collections for subdividing markdown sets
+    createNodeField({
+      node,
+      name: "collection",
+      value: _.get(parent, "sourceInstanceName"),
+    })
+
+    // create official slug
+    createNodeField({
+      node,
+      name: `slug`,
+      value: slug,
+    })
+  }
+}
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const pagePost = path.resolve(`./src/templates/page-post.js`)
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
@@ -19,6 +58,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             id
             fields {
               slug
+              collection
             }
           }
         }
@@ -34,16 +74,23 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const allNodes = result.data.allMarkdownRemark.nodes
+
+  const blogNodes = allNodes.filter(node => node.fields.collection === `blog`)
+  const readingNodes = allNodes.filter(
+    node => node.fields.collection === `reading`
+  )
+  const pageNodes = allNodes.filter(node => node.fields.collection === `pages`)
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
 
-  if (posts.length > 0) {
-    posts.forEach((post, index) => {
-      const previousPostId = index === 0 ? null : posts[index - 1].id
-      const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
+  if (blogNodes.length > 0) {
+    blogNodes.forEach((post, index) => {
+      const previousPostId = index === 0 ? null : blogNodes[index - 1].id
+      const nextPostId =
+        index === blogNodes.length - 1 ? null : blogNodes[index + 1].id
 
       createPage({
         path: post.fields.slug,
@@ -56,18 +103,36 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
-}
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  if (readingNodes.length > 0) {
+    // console.log(JSON.stringify(readingNodes, null, 2))
+    readingNodes.forEach((reading, index) => {
+      const previousReadingId = index === 0 ? null : readingNodes[index - 1].id
+      const nextReadingId =
+        index === readingNodes.length - 1 ? null : readingNodes[index + 1].id
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+      createPage({
+        path: reading.fields.slug,
+        component: blogPost,
+        context: {
+          id: reading.id,
+          previousReadingId,
+          nextReadingId,
+        },
+      })
+    })
+  }
 
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
+  if (pageNodes.length > 0) {
+    // console.log("pageNodes", pageNodes)
+    pageNodes.forEach((page, index) => {
+      createPage({
+        path: page.fields.slug,
+        component: pagePost,
+        context: {
+          id: page.id,
+        },
+      })
     })
   }
 }

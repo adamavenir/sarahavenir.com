@@ -307,8 +307,11 @@ a:focus {
 .bio-avatar {
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
-  min-width: 50px;
+  min-width: 100px;
   border-radius: 100%;
+  border: 3px solid #039388;
+  box-shadow: 0 0 15px rgba(1, 102, 94, 0.3);
+  background-color: #039388;
 }
 
 .blog-post header h1 {
@@ -326,6 +329,27 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+.about-me {
+  display: inline-block;
+}
+
+.about-me p {
+  display: block;
+}
+.about-me p {
+  margin-bottom: 15px;
+}
+
+nav {
+  display: block;
+}
+nav a {
+  font-family: var(--fontFamily-sans);
+  font-weight: var(--fontWeight-medium);
+  font-size: var(--fontSize-2);
+  margin-right: var(--spacing-10);
+  text-decoration: none;
 }
 
 /* Media queries */
