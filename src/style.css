@@ -403,7 +403,7 @@ input[type="submit"] {
 .reading-list h2 {
   font-size: var(--fontSize-0);
   font-weight: var(--fontWeight-bold);
-  margin: 0;
+  margin: 0 0 10px 0;
 }
 
 .reading-list h3 {
@@ -419,10 +419,6 @@ input[type="submit"] {
   padding: 5px;
   vertical-align: top;
   margin-top: 0;
-}
-
-.title-author {
-  height: 80px;
 }
 
 /* Media queries */
