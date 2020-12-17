@@ -352,6 +352,44 @@ nav a {
   text-decoration: none;
 }
 
+form {
+  /* border: 1px solid var(--color-primary); */
+  padding: 10px;
+  font-family: var(--fontFamily-sans);
+  margin-bottom: 40px;
+  border: 1px solid #03938833;
+  box-shadow: 0 0 15px rgba(1, 102, 94, 0.3);
+  background-color: #03938822;
+  text-align: center;
+  border-radius: 5px;
+  padding: 20px 0 10px 0;
+}
+
+form label {
+  margin-right: 10px;
+  font-weight: var(--fontWeight-bold);
+}
+input {
+  padding: 10px;
+}
+input[type="email"] {
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid #039388;
+  margin-bottom: 10px;
+}
+input[type="submit"] {
+  margin-left: 10px;
+  cursor: pointer;
+  border: 1px solid #039388;
+  color: #fff;
+  font-weight: var(--fontWeight-bold);
+  background-color: #039388;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
