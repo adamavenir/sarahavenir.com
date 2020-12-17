@@ -132,8 +132,15 @@ h1.main-heading {
   font-family: var(--fontFamily-serif);
   font-weight: normal;
   color: var(--color-primary);
-  margin: 80px 0 -50px 0;
+  margin: 80px 0 20px 0;
   padding-left: 116px;
+}
+
+h1.section-title {
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding: 0;
+  color: var(--color-primary);
 }
 
 h2 {
@@ -263,8 +270,8 @@ a:focus {
 }
 
 .global-header {
-  padding: var(--spacing-5) 0;
-  margin-bottom: var(--spacing-12);
+  padding: var(--spacing-5) 0 0 0;
+  margin-bottom: var(--spacing-0);
 }
 
 .main-heading {
@@ -363,8 +370,12 @@ nav a {
   font-family: var(--fontFamily-sans);
   font-weight: var(--fontWeight-medium);
   font-size: var(--fontSize-2);
-  margin-right: var(--spacing-10);
+  margin-right: var(--spacing-5);
   text-decoration: none;
+}
+
+nav a::after {
+  content: " »";
 }
 
 form {
@@ -448,7 +459,11 @@ input[type="submit"] {
   background-color: var(--color-background-dark);
   padding: 5px;
   vertical-align: top;
-  margin-top: 0;
+  margin: 0;
+}
+
+.reading-list .gatsby-image-wrapper {
+  margin-bottom: 10px;
 }
 
 .reading-title-author h1 {
@@ -486,4 +501,51 @@ input[type="submit"] {
   ol {
     list-style-position: inside;
   }
+}
+
+@media (max-width: 680px) {
+  .bio {
+    display: block;
+  }
+  .global-wrapper {
+    margin: 10px;
+  }
+  h1.main-heading {
+    padding: 0;
+    margin: 0 0 -80px 0;
+    text-align: center;
+  }
+  .bio-avatar.gatsby-image-wrapper {
+    display: block !important;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .about-me {
+    display: block;
+    margin: 10px;
+  }
+  nav {
+    border-bottom: 1px solid var(--color-accent);
+    padding-bottom: 20px;
+  }
+  nav a {
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  nav a::after {
+    content: "";
+  }
+  .reading-list .gatsby-image-wrapper {
+    width: 120px;
+    margin-bottom: 5px;
+  }
+  .reading-list article {
+    display: grid;
+    grid-template-rows: 170px 1fr;
+    width: 120px;
+  }
+}
+
+@media (max-width: 400px) {
 }

@@ -16,6 +16,9 @@ const BlogPostTemplate = ({ data, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+      <h1 className="section-title">
+        <Link to="/writing">« Writing nook</Link>
+      </h1>
       <div className="global-wrapper">
         <article
           className="blog-post"

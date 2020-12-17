@@ -19,6 +19,9 @@ const ReadingPostTemplate = ({ data, location }) => {
         title={pageTitle}
         description={post.frontmatter.description || post.excerpt}
       />
+      <h1 className="section-title">
+        <Link to="/reading">« Reading nook</Link>
+      </h1>
       <div className="global-wrapper">
         <article
           className="reading-post"

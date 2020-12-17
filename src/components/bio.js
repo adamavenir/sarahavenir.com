@@ -72,9 +72,9 @@ const Bio = () => {
               they love than persuade people to buy it.
             </p>
             <nav>
-              <Link to="/writing">✍️ Writing »</Link>
-              <Link to="/reading">📚 Reading »</Link>
-              <Link to="/newsletter">📬 Newslettering »</Link>
+              <Link to="/writing">✍️ Writing</Link>
+              <Link to="/reading">📚 Reading</Link>
+              <Link to="/newsletter">📬 Newslettering</Link>
             </nav>
           </div>
         )}

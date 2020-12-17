@@ -10,22 +10,10 @@ const ReadingIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <SEO title="📚 Reading nook" />
-        <Bio />
-        <p>No readings found. Add markdown posts to "content/reading".</p>
-      </Layout>
-    )
-  }
-
   return (
     <Layout location={location} title={siteTitle}>
-      <div className="global-wrapper">
-        <SEO title="📚 Reading nook" />
-        <Bio />
-      </div>
+      <SEO title="📚 Reading nook" />
+      <h1 className="section-title">Reading nook</h1>
       <div className="reading-list">
         {posts.map(post => {
           const title = post.frontmatter.title
@@ -35,7 +23,7 @@ const ReadingIndex = ({ data, location }) => {
               {post.frontmatter.image ? (
                 <Link to={post.fields.slug} itemProp="url">
                   <Img
-                    fixed={post.frontmatter.image.childImageSharp.fixed}
+                    fluid={post.frontmatter.image.childImageSharp.fluid}
                     alt={post.frontmatter.title}
                   />
                 </Link>
@@ -57,6 +45,9 @@ const ReadingIndex = ({ data, location }) => {
             </article>
           )
         })}
+      </div>
+      <div className="global-wrapper">
+        <Bio />
       </div>
     </Layout>
   )
@@ -88,8 +79,8 @@ export const pageQuery = graphql`
           description
           image {
             childImageSharp {
-              fixed(width: 180, quality: 100) {
-                ...GatsbyImageSharpFixed_withWebp
+              fluid(maxWidth: 180) {
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
