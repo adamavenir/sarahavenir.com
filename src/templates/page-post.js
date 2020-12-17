@@ -14,20 +14,22 @@ const PageTemplate = ({ data, location }) => {
         title={page.frontmatter.title}
         description={page.frontmatter.description || page.excerpt}
       />
-      <article
-        className="blog-page"
-        itemScope
-        itemType="http://schema.org/Article"
-      >
-        <header>
-          <h1 itemProp="headline">{page.frontmatter.title}</h1>
-          <p>{page.frontmatter.date}</p>
-        </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: page.html }}
-          itemProp="articleBody"
-        />
-      </article>
+      <div className="global-wrapper">
+        <article
+          className="blog-page"
+          itemScope
+          itemType="http://schema.org/Article"
+        >
+          <header>
+            <h1 itemProp="headline">{page.frontmatter.title}</h1>
+            <p>{page.frontmatter.date}</p>
+          </header>
+          <section
+            dangerouslySetInnerHTML={{ __html: page.html }}
+            itemProp="articleBody"
+          />
+        </article>
+      </div>
     </Layout>
   )
 }

@@ -22,8 +22,10 @@ const ReadingIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="👋 Hi!" />
-      <Bio />
+      <div className="global-wrapper">
+        <SEO title="👋 Hi!" />
+        <Bio />
+      </div>
       <div className="reading-list">
         {posts.map(post => {
           const title = post.frontmatter.title

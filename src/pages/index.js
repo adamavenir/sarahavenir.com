@@ -9,8 +9,10 @@ const SiteIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="👋 Hi!" />
-      <Bio />
+      <div className="global-wrapper">
+        <SEO title="👋 Hi!" />
+        <Bio />
+      </div>
     </Layout>
   )
 }
