@@ -393,11 +393,16 @@ input[type="submit"] {
   margin-bottom: 10px;
 }
 
+.reading-list {
+  text-align: center;
+}
+
 .reading-list article {
   display: inline-block;
   width: 190px;
   margin: 0px 10px 20px 10px;
   position: relative;
+  text-align: left;
 }
 
 .reading-list h2 {
