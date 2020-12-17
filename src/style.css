@@ -512,7 +512,7 @@ input[type="submit"] {
   }
   h1.main-heading {
     padding: 0;
-    margin: 0 0 -80px 0;
+    margin: 0 0 0px 0;
     text-align: center;
   }
   .bio-avatar.gatsby-image-wrapper {
