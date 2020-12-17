@@ -61,7 +61,9 @@ const Bio = () => {
               sharing what I learn in my{" "}
               <Link to="/newsletter">newsletter</Link> and on{" "}
               <a href="http://roam.sarahavenir.com">Roam</a>. You can{" "}
-              <a href="https://ask.sarahavenir.com">ask me anything</a>.
+              <a href="https://ask.sarahavenir.com">ask me anything</a> or say
+              hi on <a href="https://twitter.com/sarahavenir">Twitter</a> or by{" "}
+              <a href="mailto:sarahavenir@hey.com">email</a>.
             </p>
             <p>
               I recently released the second edition of my first book,{" "}
@@ -70,9 +72,9 @@ const Bio = () => {
               they love than persuade people to buy it.
             </p>
             <nav>
-              <Link to="/blog">Blog »</Link>
-              <Link to="/reading">Reading »</Link>
-              <Link to="/newsletter">Newsletter » </Link>
+              <Link to="/writing">✍️ Writing »</Link>
+              <Link to="/reading">📚 Reading »</Link>
+              <Link to="/newsletter">📬 Newslettering »</Link>
             </nav>
           </div>
         )}

@@ -62,6 +62,8 @@
   --color-heading: #039388;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+  --color-accent: #afdbd5;
+  --color-background-dark: #d0ece8;
 }
 
 /* HTML elements */
@@ -130,6 +132,8 @@ h1.main-heading {
   font-family: var(--fontFamily-serif);
   font-weight: normal;
   color: var(--color-primary);
+  margin: 80px 0 -50px 0;
+  padding-left: 116px;
 }
 
 h2 {
@@ -276,7 +280,7 @@ a:focus {
 .post-list-item p {
   margin-bottom: var(--spacing-0);
 }
-
+/* afd0cb */
 .post-list-item h2 {
   font-size: var(--fontSize-4);
   color: var(--color-primary);
@@ -293,9 +297,20 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+  text-align: center;
+  display: block;
+}
+
+.header-link-home::before {
+  content: "👋 ";
+}
+
+hr {
+  clear: both;
 }
 
 .bio {
+  clear: both;
   display: flex;
   margin-bottom: var(--spacing-16);
 }
@@ -358,8 +373,10 @@ form {
   font-family: var(--fontFamily-sans);
   margin-bottom: 40px;
   border: 1px solid #03938833;
+  border: 1px solid var(--color-accent);
   box-shadow: 0 0 15px rgba(1, 102, 94, 0.3);
   background-color: #03938822;
+  background-color: var(--color-background-dark);
   text-align: center;
   border-radius: 5px;
   padding: 20px 20px 10px 20px;
@@ -378,7 +395,7 @@ input {
 input[type="email"] {
   width: 200px;
   border-radius: 5px;
-  border: 1px solid #03938833;
+  border: 1px solid var(--color-accent);
   margin-bottom: 10px;
 }
 input[type="submit"] {
@@ -392,12 +409,6 @@ input[type="submit"] {
   padding: 10px;
   margin-bottom: 10px;
 }
-
-/* .reading-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  grid-gap: 10px 20px;
-} */
 
 .reading-list {
   display: flex;
@@ -431,11 +442,37 @@ input[type="submit"] {
 
 .reading-list img {
   border: 1px solid #03938833;
+  border: 1px solid var(--color-accent);
   box-shadow: 0 0 15px rgba(1, 102, 94, 0.3);
   background-color: #03938822;
+  background-color: var(--color-background-dark);
   padding: 5px;
   vertical-align: top;
   margin-top: 0;
+}
+
+.reading-title-author h1 {
+  margin-bottom: 10px;
+  font-size: var(--fontSize-4);
+  color: var(--color-primary);
+}
+
+.reading-title-author h2 {
+  margin-top: 0;
+  font-size: var(--fontSize-2);
+  color: var(--color-text);
+  font-weight: var(--fontWeight-medium);
+}
+
+.reading-image {
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
+.reading-image img {
+  border: 1px solid var(--color-accent);
+  background-color: var(--color-background-dark);
+  padding: 5px;
 }
 
 /* Media queries */
