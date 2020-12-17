@@ -1,13 +1,12 @@
 ---
-title: "Courageous Positioning (and why it’s hard)"
-date: "2019-02-19"
+title: Courageous Positioning (and why it’s hard)
+date: 2019-02-19
 ---
-
 I wrote a newsletter a few weeks ago from Nashville, TN, host of my angsty teen years. We were there to attend a seminar [David Baker](https://www.davidcbaker.com/) was hosting on Advanced Positioning and Lead Generation, which ended up triggering a different kind of angst.
 
 ## Positioning angst
 
-Positioning angst...anyone else ever experience this? It’s totally a thing. It’s when a very smart person reminds you that Doing All The Things For Everyone isn’t a strategy and you’re like “oh I _know_ but we have super good reasons for doing it” and then you splutter around a lot and realize that your good reasons are also terrible and that committing to clear positioning is really just a very scary thing to do. And it’s like that for everybody and you’re not special. (Well, you _are_ special but in the same way that everyone else is also special.)
+Positioning angst...anyone else ever experience this? It’s totally a thing. It’s when a very smart person reminds you that Doing All The Things For Everyone isn’t a strategy and you’re like “oh I *know* but we have super good reasons for doing it” and then you splutter around a lot and realize that your good reasons are also terrible and that committing to clear positioning is really just a very scary thing to do. And it’s like that for everybody and you’re not special. (Well, you *are* special but in the same way that everyone else is also special.)
 
 The fear is real. Especially when you have a team of incredibly talented people counting on you to make decisions that will result in more and better work and not less.
 
@@ -15,7 +14,7 @@ We’ve done [a lot of projects over the years](https://andyet.com/showcase), ra
 
 Not only that, but philosophically, we’ve always rebelled against the idea of pigeon-holing ourselves into “just one thing”. We are curious people who incorporate what we learn across disciplines into our work. We believe being a generalist does not mean being a “master of none”. [We do lots of things, and we do them well](https://lynnandtonic.com/thoughts/entries/good-better-best/).
 
-![Lynn made these stickers, and they are awesome, and&nbsp; you can have one of your very own .](images/2c5ab-img_0003.jpg)
+![Lynn made these stickers, and they are awesome, and&nbsp; you can have one of your very own .](2c5ab-img_0003.jpg)
 
 Lynn made these stickers, and they are awesome, and [you can have one of your very own](https://www.etsy.com/listing/650280661/jack-of-all-trades-sticker).
 
@@ -27,7 +26,7 @@ What’s just as unfortunate though (from my perspective) is how we’ve shied a
 
 This is what we’re trying to figure out right now.
 
-One thing David Baker mentioned when the seminar was over was the tendency to come home with a new idea and say, “Okay, team; this is what we’re doing now!”, touting all the ways the new idea is different than all those _other_ ideas you’ve had and why this can’t possibly fail. Instead, he encouraged us to be thoughtful, move ahead slowly, and _do_ things instead of make grand pronouncements.
+One thing David Baker mentioned when the seminar was over was the tendency to come home with a new idea and say, “Okay, team; this is what we’re doing now!”, touting all the ways the new idea is different than all those *other* ideas you’ve had and why this can’t possibly fail. Instead, he encouraged us to be thoughtful, move ahead slowly, and *do* things instead of make grand pronouncements.
 
 We are definitely taking this to heart (which is why this post does not include grand pronouncements, despite how much I love them!). We’ve had considerable discussion about who we are, what we’re uniquely good at, what kind of work we want to be doing, and who we want to work with. We’ve written several positioning statements, and the one we have right now feels very, very close to what we’ll likely end up with.
 
@@ -37,7 +36,7 @@ All of that has been interesting, and I’m excited about how far we’ve come. 
 
 We’ve done this before. To the point where this gif of [Gar](https://twitter.com/wraithgar) pops up in Slack whenever anyone mentions the word “rebrand”.
 
-![ihEjcvO1GH.gif](images/0ade3-ihejcvo1gh.gif)
+![ihEjcvO1GH.gif](0ade3-ihejcvo1gh.gif)
 
 It’s a bit disheartening to look at all those past attempts and ask ourselves, “Is this another one of those?” That’s one reason why the past few years, we decided to accept Doing All The Things as our mantra and tried to create repeatable systems to build our pipeline around that. We’ve dipped our toe into different specializations around projects we’ve worked on, making landing pages for them and adding them to our ever-growing list of offerings.
 

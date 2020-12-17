@@ -1,13 +1,12 @@
 ---
-title: "A collaborative process for defining the purpose of any project"
-date: "2019-01-18"
+title: A collaborative process for defining the purpose of any project
+date: 2019-01-18
 ---
-
 This fall, my partner and I bought [Tumbleweird](http://tumbleweird.org/), a local free alternative paper started a few years ago by some great people who wanted to see a counter-cultural publication in our area along the lines of The Stranger in Seattle and The Portland Mercury.
 
 [
 
-![My co-worker  Jaime  did this incredible illustration for our January issue. ♥️](images/03f16-vol4_iss1_web-cover-1.jpg)
+![My co-worker  Jaime  did this incredible illustration for our January issue. ♥️](03f16-vol4_iss1_web-cover-1.jpg)
 
 ](https://tumbleweird.org)
 
@@ -15,7 +14,7 @@ My co-worker [Jaime](https://www.drawnbyjaime.com) did this incredible illustrat
 
 My role at Tumbleweird is broadly defined as "handling the people part." Practically speaking, this means organizing the work in a way that energizes the volunteers who pour so much of themselves into publishing Tumbleweird each month. But my first order of business is more philosophical. Before we define roles and responsibilities and recruit people who are excited to do those things, we need to know why we're doing all of it. Who are we as a community and what are we trying to accomplish?
 
-Lately I've been obsessed with discovering the purpose of the projects I'm involved in. It started with an excellent book a friend of mine recommended called [_The Art of Gathering: How we meet and why it matters_](http://www.advunderground.com/inventory/801393.php) by Priya Parker. It's about designing in-person gatherings, but I'd recommend it to anyone involved in any project with the goal of creating a specific experience for people.
+Lately I've been obsessed with discovering the purpose of the projects I'm involved in. It started with an excellent book a friend of mine recommended called *[The Art of Gathering: How we meet and why it matters](http://www.advunderground.com/inventory/801393.php)* by Priya Parker. It's about designing in-person gatherings, but I'd recommend it to anyone involved in any project with the goal of creating a specific experience for people.
 
 I read the whole book in a matter of days, and then I went back and have been lingering on the very first chapter for months. This is the chapter about purpose. If you read nothing else in the coming year, read this chapter. It easily had the most impact on my work of anything I read in 2018 (and I read constantly).
 
@@ -23,22 +22,22 @@ Having a clear, sharp purpose for a project helps create intentional experiences
 
 Parker writes that an effective purpose is:
 
-- Unique: It takes a stand no one else is taking
+* Unique: It takes a stand no one else is taking
     
-- Specific: It commits to doing one thing well
+* Specific: It commits to doing one thing well
     
-- Disputable: It's willing to unsettle some people
+* Disputable: It's willing to unsettle some people
     
 
 Even though Tumbleweird has always been a unique (and disputable!) publication, and I love the many ways it's been described by people who've created it and worked on it, I knew we needed to take all of that background and define a clear, sharp purpose for ourselves.
 
-But we don't want to do that alone. Creating out loud (especially with the people you're making your project for) is a philosophy I wrote about in the first edition of my book, [_Gather the People: A human approach to marketing for people who would rather make what they love than persuade people to buy it_](https://tumbleweird.org/what-is-the-purpose-of-tumbleweird-inquiring-minds-want-to-know/gatherthepeople.com). (I’m working on the second edition now.)
+But we don't want to do that alone. Creating out loud (especially with the people you're making your project for) is a philosophy I wrote about in the first edition of my book, *[Gather the People: A human approach to marketing for people who would rather make what they love than persuade people to buy it](https://tumbleweird.org/what-is-the-purpose-of-tumbleweird-inquiring-minds-want-to-know/gatherthepeople.com)*. (I’m working on the second edition now.)
 
 This isn't just a good marketing principle. It's true about all collaborative efforts...when we include people from the beginning, they're more invested in what we're doing, and they become an essential part of shaping the work into something better than we could have envisioned on our own.
 
 ## A vaguely scientific, thoroughly collaborative approach to defining the purpose of a project
 
-Here’s how we’ve worked toward defining a clear, sharp purpose for Tumbleweird. Although Priya Parker does an excellent job making the case for doing this in _The Art of Gathering_, she doesn't really explain how. Especially if you want to include other people in the process.
+Here’s how we’ve worked toward defining a clear, sharp purpose for Tumbleweird. Although Priya Parker does an excellent job making the case for doing this in *The Art of Gathering*, she doesn't really explain how. Especially if you want to include other people in the process.
 
 Creative brainstorming is a challenge with even a few people, much less the ~150 folks we've invited to participate so far. Luckily, Adam developed an online tool for this inspired by a system called compression planning. We were introduced to this system when volunteering with the Pasco school district's Enterprise Week this past spring, and it completely changed the way we generate ideas.
 
@@ -46,11 +45,11 @@ Creative brainstorming is a challenge with even a few people, much less the ~150
 
 First, we devised a set of questions we wanted to explore.
 
-- What do we want to be different because Tumbleweird exists?
+* What do we want to be different because Tumbleweird exists?
     
-- How do we want it to feel to be a contributor/reader/part of the Tumbleweird community?
+* How do we want it to feel to be a contributor/reader/part of the Tumbleweird community?
     
-- What are the core principles/beliefs/values that define Tumbleweird?
+* What are the core principles/beliefs/values that define Tumbleweird?
     
 
 Then, we sent these questions individually to past contributors and people we thought should have a voice in Tumbleweird. It was incredible reading their answers. So many people responded at length, and on a short deadline.
@@ -70,9 +69,9 @@ We're calling it a "working" purpose because while we spent a lot of time writin
 **Tumbleweird: Positively weird. Never timid.**
 
 > Tumbleweird exists to bring together a more diverse, creative, and progressive community than Eastern Washington gets credit for, in order to connect, highlight, and encourage the betterment of our area.
-
+>
 > We do this by publishing a community-driven paper that uncovers the region’s true identity in a way that’s always positive, often irreverent, and never timid.
-
+>
 > We serve the truly powerful: the underdogs, the misfits, the outsiders, the newcomers, those on the margins, and the ones who defy the status quo. We aren’t beholden to advertisers or authorities. Except for the almighty buttermint lobby.
 
 (There is a whole backstory on buttermints that I will let Adam tell you one of these days.)
