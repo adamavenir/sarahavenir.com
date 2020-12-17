@@ -419,8 +419,10 @@ input[type="submit"] {
   padding: 5px;
   vertical-align: top;
   margin-top: 0;
-  position: absolute;
-  top: 0;
+}
+
+.title-author {
+  height: 80px;
 }
 
 /* Media queries */
