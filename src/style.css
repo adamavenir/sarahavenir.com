@@ -393,6 +393,36 @@ input[type="submit"] {
   margin-bottom: 10px;
 }
 
+.reading-list article {
+  display: inline-block;
+  width: 190px;
+  margin: 0px 10px 20px 10px;
+  position: relative;
+}
+
+.reading-list h2 {
+  font-size: var(--fontSize-0);
+  font-weight: var(--fontWeight-bold);
+  margin: 0;
+}
+
+.reading-list h3 {
+  font-size: var(--fontSize-0);
+  font-weight: var(--fontWeight-medium);
+  margin: 0;
+}
+
+.reading-list img {
+  border: 1px solid #03938833;
+  box-shadow: 0 0 15px rgba(1, 102, 94, 0.3);
+  background-color: #03938822;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 0;
+  position: absolute;
+  top: 0;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {

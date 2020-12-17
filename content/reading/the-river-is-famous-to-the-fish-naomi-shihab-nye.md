@@ -1,6 +1,8 @@
 ---
-title: "The River is Famous to the Fish by Naomi Shihab Nye"
+title: "The River is Famous to the Fish"
+author: "Naomi Shihab Nye"
 date: "2017-12-26"
+image: naomi-shihab-nye.jpg
 ---
 
 The river is famous to the fish.

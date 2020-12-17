@@ -55,12 +55,12 @@ const Bio = () => {
         {author?.name && (
           <div className="about-me">
             <p>
-              I’m the ceo of <a href="https://andyet.com">&yet</a> and a learner
-              and teacher on people-first growth. I write a{" "}
-              <Link to="/newsletter">newsletter</Link> and share what I’m
-              learning on <a href="http://roam.sarahavenir.com">Roam</a> while
-              working on{" "}
-              <a href="http://peoplefirstgrowth.com">my second book</a>. You can{" "}
+              I’m the CEO of <a href="https://andyet.com">&yet</a> and a student
+              and teacher of people-first growth. While working on{" "}
+              <a href="http://peoplefirstgrowth.com">my second book</a>, I’m
+              sharing what I learn in my{" "}
+              <Link to="/newsletter">newsletter</Link> and on{" "}
+              <a href="http://roam.sarahavenir.com">Roam</a>. You can{" "}
               <a href="https://ask.sarahavenir.com">ask me anything</a>.
             </p>
             <p>

@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -23,41 +24,36 @@ const ReadingIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="👋 Hi!" />
       <Bio />
-      <ol style={{ listStyle: `none` }}>
+      <div className="reading-list">
         {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+          const title = post.frontmatter.title
 
           return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                </header>
-                {post.frontmatter.description ? (
-                  <section>
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description,
-                      }}
-                      itemProp="description"
-                    />
-                  </section>
-                ) : (
-                  ""
-                )}
-              </article>
-            </li>
+            <article key={post.fields.slug}>
+              {post.frontmatter.image ? (
+                <Link to={post.fields.slug} itemProp="url">
+                  <Img
+                    fixed={post.frontmatter.image.childImageSharp.fixed}
+                    alt={post.frontmatter.title}
+                  />
+                </Link>
+              ) : (
+                ""
+              )}
+              <h2>
+                <Link to={post.fields.slug} itemProp="url">
+                  <span itemProp="headline">{title}</span>
+                </Link>
+              </h2>
+              {post.frontmatter.author ? (
+                <h3>{post.frontmatter.author}</h3>
+              ) : (
+                ""
+              )}
+            </article>
           )
         })}
-      </ol>
+      </div>
     </Layout>
   )
 }
@@ -84,7 +80,15 @@ export const pageQuery = graphql`
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
+          author
           description
+          image {
+            childImageSharp {
+              fixed(width: 180, quality: 100) {
+                ...GatsbyImageSharpFixed_withWebp
+              }
+            }
+          }
         }
       }
     }
