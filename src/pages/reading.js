@@ -46,9 +46,6 @@ const ReadingIndex = ({ data, location }) => {
           )
         })}
       </div>
-      <div className="global-wrapper">
-        <Bio />
-      </div>
     </Layout>
   )
 }
