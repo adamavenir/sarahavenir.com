@@ -1,11 +1,8 @@
 ---
-title: Newsletter
-slug: newsletter
-description: Oh boy, I have a newsletter
+title: What a page this is
+slug: this-is-a-page-woooooooo
+description: This is just a placeholder page
 ---
+Hi, Sarah
 
-Look here. I have a newsletter.
-
-You can sign up for it:
-
-[ blorp ]
+Hi! I love you!
