@@ -24,14 +24,15 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <footer>
-        <a href="https://andyet.com">&amp;yet</a> •{" "}
-        <a href="http://peoplefirstgrowth.com">People-First Growth</a> •{" "}
-        <a href="https://gatherthepeople.com">Gather the People</a> •{" "}
-        <a href="https://buttondown.email/sarahavenir">Newsletter</a>
-      </footer>
     </div>
   )
 }
 
 export default Layout
+
+// <footer>
+// <a href="https://andyet.com">&amp;yet</a> •{" "}
+// <a href="http://peoplefirstgrowth.com">People-First Growth</a> •{" "}
+// <a href="https://gatherthepeople.com">Gather the People</a> •{" "}
+// <a href="https://buttondown.email/sarahavenir">Newsletter</a>
+// </footer>
