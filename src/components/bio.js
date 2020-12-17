@@ -72,7 +72,7 @@ const Bio = () => {
             <nav>
               <Link to="/blog">Blog »</Link>
               <Link to="/reading">Reading »</Link>
-              <a href="https://buttondown.email/sarahavenir">Newsletter » </a>
+              <Link to="/newsletter">Newsletter » </Link>
             </nav>
           </div>
         )}
