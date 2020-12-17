@@ -393,22 +393,34 @@ input[type="submit"] {
   margin-bottom: 10px;
 }
 
+/* .reading-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-gap: 10px 20px;
+} */
+
 .reading-list {
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .reading-list article {
-  display: inline-block;
-  width: 190px;
-  margin: 0px 10px 20px 10px;
-  position: relative;
-  text-align: left;
+  display: grid;
+  grid-template-rows: 290px 1fr;
+  width: 180px;
+  margin: 0 10px 40px;
+}
+
+.reading-list article > a {
+  display: block;
+  align-self: end;
 }
 
 .reading-list h2 {
   font-size: var(--fontSize-0);
   font-weight: var(--fontWeight-bold);
-  margin: 0 0 10px 0;
+  margin: 0 0 5px 0;
 }
 
 .reading-list h3 {
