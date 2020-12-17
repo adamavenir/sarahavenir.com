@@ -13,7 +13,7 @@ const ReadingIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title="👋 Hi!" />
+        <SEO title="📚 Reading nook" />
         <Bio />
         <p>No readings found. Add markdown posts to "content/reading".</p>
       </Layout>
@@ -23,7 +23,7 @@ const ReadingIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <div className="global-wrapper">
-        <SEO title="👋 Hi!" />
+        <SEO title="📚 Reading nook" />
         <Bio />
       </div>
       <div className="reading-list">
