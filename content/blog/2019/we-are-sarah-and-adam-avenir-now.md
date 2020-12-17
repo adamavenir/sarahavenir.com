@@ -1,8 +1,7 @@
 ---
-title: "We are Sarah and Adam  Avenir now <3"
-date: "2019-04-04"
+title: We are Sarah and Adam  Avenir now <3
+date: 2019-04-04
 ---
-
 Dear friends, family, and folks we know from the Internet who have squirreled their way into our hearts,
 
 We have a new name!
@@ -13,7 +12,7 @@ Yes, indefinitely. We officially got married on December 28th in what was initia
 
 As soon as everyone arrived at Adam’s parents’ house (including Sarah’s parents, via video chat), Lilah gave us all a gift—a handmade pizza pin that included a pepperoni with each of our initials; two slices joined together with an A and an S on the seam, the Brault kids on one slice and the Bray kids on the other.
 
-![E16AE70D-8B3A-4870-8AF8-BD730FA7798D.jpg](images/c0eba-e16ae70d-8b3a-4870-8af8-bd730fa7798d.jpg)
+![E16AE70D-8B3A-4870-8AF8-BD730FA7798D.jpg](c0eba-e16ae70d-8b3a-4870-8af8-bd730fa7798d.jpg)
 
 As amazing as it sounded to have a second celebration with our loved ones under the stars in May, as the tasks started to pile up, our enthusiasm waned. It seemed unlikely we could (sanely) create an evening that would be as special to us as the first one.
 
