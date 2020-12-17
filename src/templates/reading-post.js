@@ -10,7 +10,6 @@ const ReadingPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-  console.log(JSON.stringify(post, null, 2))
 
   const pageTitle = post.frontmatter.title + " by " + post.frontmatter.author
 
