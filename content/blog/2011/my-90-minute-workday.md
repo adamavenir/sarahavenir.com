@@ -10,8 +10,6 @@ After six years of owning my own business and marveling at my own vast productio
 
 It’s like the motivation part of my brain became a rebellious teenager. This wouldn’t have been too much of a problem since I have a good amount of control over my days, but suddenly my brain started tricking me into thinking that everything was an obligation. Excited about my website re-design? Oh, well as soon as I start planning for it, now I have to do it. Want to re-invent my digital program? Well, forget it. The minute it comes out of my mouth, I feel obligated. I couldn’t even plan on baking cookies with my kids…I’d always just say “we’ll see”, and hope that the motivation part of my brain wouldn’t freak out on me and make it seem like an unalterable chore.
 
-https://twitter.com/sarahavenir/status/1339674624280293376?s=20
-
 Instead of completely shutting down (which I’ve tried before…it doesn’t help), I embarked on a workflow soul-searching mission. I put aside my culturally engrained definitions of productivity and responsibility in an attempt to find true freedom in my work life. And this is what I’ve come up with.
 
 ## Type Z
