@@ -1,8 +1,7 @@
 ---
-title: "My 90-minute workday"
-date: "2011-12-20"
+title: My 90-minute workday
+date: 2011-12-20
 ---
-
 They say that when you’re your own boss, you’ve got the worst boss in the world. It’s true. To myself, I am like the Attila the Hun of bosses. (To others…well, I won’t put words in their mouths. But I imagine Attila the Hun wouldn’t be the one they’d compare me to. I’m probably more of an Annie Oakley.)
 
 The culture is the easiest thing to blame. We say that we value slowing down and appreciating life, but our actions indicate otherwise. Exhaustion is modern-day martyrdom. We puff our chests as we admit that we worked 62 hours last week with nothing but a camelbak of coffee and a good attitude. That’s responsibility. That’s work ethic. Hiyah!
@@ -10,6 +9,8 @@ The culture is the easiest thing to blame. We say that we value slowing down and
 After six years of owning my own business and marveling at my own vast production capacity, I became aware of the onset of a strange disease. Not workaholism, though that could have been the cause. No, this was much worse. Suddenly, I was unable to do anything required of me. Once I committed to a project…once I was obligated to do it, I could no longer muster the energy. And it did not go away.
 
 It’s like the motivation part of my brain became a rebellious teenager. This wouldn’t have been too much of a problem since I have a good amount of control over my days, but suddenly my brain started tricking me into thinking that everything was an obligation. Excited about my website re-design? Oh, well as soon as I start planning for it, now I have to do it. Want to re-invent my digital program? Well, forget it. The minute it comes out of my mouth, I feel obligated. I couldn’t even plan on baking cookies with my kids…I’d always just say “we’ll see”, and hope that the motivation part of my brain wouldn’t freak out on me and make it seem like an unalterable chore.
+
+https://twitter.com/sarahavenir/status/1339674624280293376?s=20
 
 Instead of completely shutting down (which I’ve tried before…it doesn’t help), I embarked on a workflow soul-searching mission. I put aside my culturally engrained definitions of productivity and responsibility in an attempt to find true freedom in my work life. And this is what I’ve come up with.
 
@@ -29,50 +30,50 @@ But I needed something to replace the whip. So I did what any self-respecting fo
 
 ### I AM HAPPIEST IN MY WORK WHEN…
 
-- I have loads of freedom to do whatever I want to do.
+* I have loads of freedom to do whatever I want to do.
     
-- I am not avoiding or procrastinating on anything.
+* I am not avoiding or procrastinating on anything.
     
-- I have a time limit for things that feel like an obligation.
+* I have a time limit for things that feel like an obligation.
     
-- I know everything that is on my plate, and I know it is all digestible.
+* I know everything that is on my plate, and I know it is all digestible.
     
-- I get to dive deep into the projects I choose to take on.
+* I get to dive deep into the projects I choose to take on.
     
-- I know what the very next thing I need to do is.
+* I know what the very next thing I need to do is.
     
-- My goal is to maintain enthusiasm and momentum, rather than put unnecessary pressure and deadlines on myself.
+* My goal is to maintain enthusiasm and momentum, rather than put unnecessary pressure and deadlines on myself.
     
-- I don’t spend much time in meetings, but I do spend time building real relationships.
+* I don’t spend much time in meetings, but I do spend time building real relationships.
     
-- I’m not worried about keeping up with my email inbox or my social media accounts.
+* I’m not worried about keeping up with my email inbox or my social media accounts.
     
-- I’m not doing things because other people want me to; I’m doing them because I want to do them.
+* I’m not doing things because other people want me to; I’m doing them because I want to do them.
     
-- I know when I’m “done” and can stop work for the day without feeling guilty.
+* I know when I’m “done” and can stop work for the day without feeling guilty.
     
-- “Done” is easily attainable.
+* “Done” is easily attainable.
     
 
 For kicks, I took a look at how my current Attila the Hun style of self-management was attempting to get me to that place of work bliss.
 
 ### ATTILA LIKES ME TO…
 
-- Schedule meetings within a day or two of when people want to have them, with a maximum of 3 meetings a day. (I was spending like 2-3 hours a day in meetings. And I’m an introvert!)
+* Schedule meetings within a day or two of when people want to have them, with a maximum of 3 meetings a day. (I was spending like 2-3 hours a day in meetings. And I’m an introvert!)
     
-- Respond to all email right away.
+* Respond to all email right away.
     
-- Schedule milestones within an inch of my life, because Attila hates when people have to wait on me for stuff that she feels “should” take less time.
+* Schedule milestones within an inch of my life, because Attila hates when people have to wait on me for stuff that she feels “should” take less time.
     
-- Schedule blocks of time for specific projects, so that it is immediately apparent to me that I have no free time whatsoever.
+* Schedule blocks of time for specific projects, so that it is immediately apparent to me that I have no free time whatsoever.
     
-- Schedule my fun time and my social media time and my reading time and my family time, so my life feels like one big giant chore (but at least I’ll get to have fun time…).
+* Schedule my fun time and my social media time and my reading time and my family time, so my life feels like one big giant chore (but at least I’ll get to have fun time…).
     
-- Cram all of my work into normal work hours so that I can have a clear separation between work life and home life (which sounds like a good thing, except for all the unnecessary pressure and long monotonous stretches of work)
+* Cram all of my work into normal work hours so that I can have a clear separation between work life and home life (which sounds like a good thing, except for all the unnecessary pressure and long monotonous stretches of work)
     
-- Work 8 hours a day. At least. Because if I’m not, then Attila’s pet guilt monster is going to chew me up and spit me out.
+* Work 8 hours a day. At least. Because if I’m not, then Attila’s pet guilt monster is going to chew me up and spit me out.
     
-- It was suddenly very clear why the motivation section of my brain was rebelling. I sucked as my own boss. I needed to fire Attila.
+* It was suddenly very clear why the motivation section of my brain was rebelling. I sucked as my own boss. I needed to fire Attila.
     
 
 ## Enter Glenda the Good Fairy
@@ -101,7 +102,7 @@ And then I’m done. DONE.
 
 It is the best feeling in the world. In an hour and a half, I give myself permission to completely stop working if I want to. And I am more productive than I’ve ever been in my entire life.
 
-## But wait, how do you actually get anything _done_ that way?
+## But wait, how do you actually get anything *done* that way?
 
 You’d be surprised at how much I get done in that hour and a half. I usually beat all of my deadlines (although I’ve stopped setting deadlines…now that I trust myself to fulfill my commitments without them, I don’t need them anymore). If I do happen to have something that needs to get done that very day, then I already have momentum on it, so it’s not stressful to get it finished. And usually, by that time I have most of it done already.
 
