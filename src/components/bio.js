@@ -72,9 +72,24 @@ const Bio = () => {
               they love than persuade people to buy it.
             </p>
             <nav>
-              <Link to="/writing">✍️ Writing</Link>
-              <Link to="/reading">📚 Reading</Link>
-              <Link to="/newsletter">📬 Newslettering</Link>
+              <Link to="/writing">
+                <span role="img" aria-label="writing">
+                  ✍️
+                </span>{" "}
+                Writing
+              </Link>
+              <Link to="/reading">
+                <span role="img" aria-label="books">
+                  📚
+                </span>{" "}
+                Reading
+              </Link>
+              <Link to="/newsletter">
+                <span role="img" aria-label="mailbox">
+                  📬
+                </span>{" "}
+                Newslettering
+              </Link>
             </nav>
           </div>
         )}

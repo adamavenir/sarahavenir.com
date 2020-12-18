@@ -60,6 +60,17 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              include: ["Instagram", "YouTube", "Twitter"],
+              settings: {
+                Instagram: { hidecaption: true },
+                YouTube: { width: 630 },
+                Twitter: { hide_thread: true },
+              },
+            },
+          },
         ],
       },
     },
