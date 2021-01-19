@@ -15,7 +15,7 @@ Whyte’s most recent series is called “Start Close In,” after his poem by t
 > the step
 > you don’t
 > want to take.
-> 
+>
 > Start with 
 > the ground
 > you know,
@@ -24,7 +24,7 @@ Whyte’s most recent series is called “Start Close In,” after his poem by t
 > your own
 > way to begin
 > the conversation.
-> 
+>
 > Start with your own
 > question,
 > give up on other
@@ -32,7 +32,7 @@ Whyte’s most recent series is called “Start Close In,” after his poem by t
 > don’t let them
 > smother something
 > simple.
-> 
+>
 > To hear 
 > another’s voice,
 > follow
@@ -44,7 +44,7 @@ Whyte’s most recent series is called “Start Close In,” after his poem by t
 > that can
 > really listen
 > to another.
-> 
+>
 > Start right now
 > take a small step
 > you can call your own
@@ -56,7 +56,7 @@ Whyte’s most recent series is called “Start Close In,” after his poem by t
 > don’t mistake
 > that other
 > for your own.
-> 
+>
 > Start close in,
 > don’t take the second step
 > or the third,
@@ -83,7 +83,7 @@ So for the past year and a half, that’s what I’ve done. Not perfectly, certa
 
 But I did it (and am doing it). I worked on fleshing out a process that helped me to show up authentically in the places that mattered most to me, at least some of the time. It was (and is) a complicated process with many steps that probably could stand to be simplified, but it has worked for me. Maybe one day I’ll write about it.
 
-So why am I still concerned about being “ensnared” by participating in this public conversation?
+**So why am I still concerned about being “ensnared” by participating in this public conversation?**
 
 “Ensnared” might be a dramatic word to describe what often happens when I share my thinking publicly, but I think it’s the right one. When I’ve retreated from the public conversation, it is much easier for me to know my own thoughts and to see clearly that “small step I can call my own.” I don’t worry about how I’m perceived; I just continue learning and growing and writing about it for no one’s benefit but my own. (I have completely filled 7 notebooks in the past year; I have no trouble being prolific!)
 
@@ -101,7 +101,7 @@ But as a writer, something in me rebels against having *solely* that kind of rel
 > your own
 > way to begin
 > the conversation.
-> 
+>
 > Start with your own
 > question,
 > give up on other
@@ -135,7 +135,7 @@ I like Dante’s approach, personally. In David Whyte’s most recent lecture, h
 > Nel mezzo del cammin di nostra vita
 > mi ritrovai per una selva oscura
 > ché la diritta via era smarrita.
-> 
+>
 > In the middle of the road of my life
 > I awoke in a dark wood,
 > where the true way was wholly lost.
@@ -211,5 +211,5 @@ I’m taking the same approach with myself. Last year was a year of searching fo
 This year, I’m giving up on that perfect path. I’m keeping the benefits of what I’ve learned, but it is ultimately the conversation I am ending, in order to find my more beautiful question.
 
 Maybe my beautiful question is, at the heart of it, “Am I enough?” “Can I trust the pale ground beneath my feet?” “Can I trust this voice, this heart that is my own?” “Can I trust the ever-unfolding invitation of my life?” “And if I do, will I be safe, will I be loved, will I belong?”
- 
+
 But of course, that is a question I cannot know the answer to right now. It is only the beginning of a conversation that, afraid as I may be to enter into it, requires only that I take that first small step.
