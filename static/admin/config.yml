@@ -3,9 +3,6 @@ backend:
   repo: adamavenir/sarahavenir.com
   branch: main
 
-media_folder: static/images
-public_folder: /images
-
 collections:
   - name: "blog"
     label: "Blog"
@@ -13,6 +10,7 @@ collections:
     folder: "content/blog"
     create: true
     slug: "slug"
+    media_folder: "content/blog"
     path: "{{year}}/{{title}}"
     preview_path: "/{{year}}/{{title}}"
     editor:
@@ -35,6 +33,7 @@ collections:
     folder: "content/pages"
     create: true
     slug: "slug"
+    media_folder: "content/pages"
     path: "{{title}}"
     preview_path: "{{title}}"
     editor:
@@ -56,6 +55,7 @@ collections:
     folder: "content/reading"
     create: true
     slug: "slug"
+    media_folder: "content/reading"
     path: "/reading/{{title}}"
     preview_path: "/reading/{{title}}"
     editor:
