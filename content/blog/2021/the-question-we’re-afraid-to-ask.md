@@ -6,15 +6,15 @@ During the pandemic, [David Whyte](https://davidwhyte.com) (one of my favorite p
 
 Whyte’s most recent series is called “Start Close In,” after his poem by the same name.
 
-> Start close in,
-> don’t take the second step
-> or the third,
-> start with the first
-> thing
-> close in,
-> the step
-> you don’t
-> want to take.
+> Start close in,  
+> don’t take the second step   
+> or the third,  
+> start with the first  
+> thing  
+> close in,  
+> the step  
+> you don’t  
+> want to take.  
 >
 > Start with 
 > the ground
