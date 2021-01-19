@@ -3,6 +3,9 @@ backend:
   repo: adamavenir/sarahavenir.com
   branch: main
 
+media_folder: static/images
+public_folder: images
+
 collections:
   - name: "blog"
     label: "Blog"
