@@ -3,7 +3,7 @@ backend:
   repo: adamavenir/sarahavenir.com
   branch: main
 
-media_folder: "content/assets"
+media_folder: "static/images"
 public_folder: "images"
 
 collections:
@@ -58,9 +58,9 @@ collections:
     folder: "content/reading"
     create: true
     slug: "slug"
-    media_folder: "content/reading"
-    path: "/reading/{{title}}"
-    preview_path: "/reading/{{title}}"
+    media_folder: ""
+    path: "reading/{{title}}"
+    preview_path: "reading/{{title}}"
     editor:
       preview: true
     fields:
