@@ -13,8 +13,6 @@ collections:
     folder: "content/blog"
     create: true
     slug: "slug"
-    media_folder: ""
-    public_folder: ""
     path: "{{year}}/{{title}}"
     preview_path: "/{{year}}/{{title}}"
     editor:
@@ -37,8 +35,6 @@ collections:
     folder: "content/pages"
     create: true
     slug: "slug"
-    media_folder: ""
-    public_folder: ""
     path: "{{title}}"
     preview_path: "{{title}}"
     editor:
@@ -60,8 +56,6 @@ collections:
     folder: "content/reading"
     create: true
     slug: "slug"
-    media_folder: ""
-    public_folder: ""
     path: "/reading/{{title}}"
     preview_path: "/reading/{{title}}"
     editor:
@@ -78,4 +72,4 @@ collections:
           required: false,
         }
       - { name: image, label: Image, widget: image, required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
