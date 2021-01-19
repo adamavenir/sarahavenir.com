@@ -90,9 +90,11 @@ But I did it (and am doing it). I worked on fleshing out a process that helped m
 
 But somehow, being online makes me prone to questioning that truth in pursuit of...I don’t know what. Relevance. Legibility. External proof of my own worth and value. It’s harder to write things because I’m fascinated by them and want to write them; that feels like a waste of my limited, so very precious time. Instead, I’m tempted to create a unifying message and to massage my writing into something that fits; something that is extrinsically pleasing, cohesive, and measurably valuable to others.
 
-Even writing those words, the question raises itself—“What’s wrong with making something extrinsically pleasing, cohesive, and measurably valuable to others? Why else publish?” And of course there’s nothing wrong with it. It’s a good way to build a resonant body of work. I benefit greatly from that kind of relentless focus on a particular message; it helps me filter out the noise and see immediate value in work that might be new to me.
+Even writing those words, the question raises itself—“What’s wrong with making something extrinsically pleasing, cohesive, and measurably valuable to others? Why else publish?” And of course there’s nothing wrong with it, not inherently. It’s a good way to build a resonant body of work. I benefit greatly from that kind of relentless focus on a particular message; it helps me filter out the noise and see immediate value in work that might be new to me.
 
 But as a writer, something in me rebels against having *solely* that kind of relationship with my writing. It’s why, even though I write so much, even though I’ve worked very hard to develop a system that allows me to share without a lot of friction, I still publish very little of my writing. Most of my words, I keep to myself.
+
+I recently took a class from [Clarinda Braun](https://www.thematriarchalbusiness.com), a consultant focused on de-colonizing business through matriarchy. One principle she taught us is that the impulse of the white/colonial lens is to "extract, exploit, exotify, and simplify." It makes me wonder: how much of the tension I experience is related to the colonizing mindset inherent in my ancestry and culture?
 
 > Start with  
 > the ground  
