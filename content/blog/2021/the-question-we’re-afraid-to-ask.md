@@ -16,56 +16,56 @@ Whyte’s most recent series is called “Start Close In,” after his poem by t
 > you don’t  
 > want to take.  
 >
-> Start with 
-> the ground
-> you know,
-> the pale ground
-> beneath your feet,
-> your own
-> way to begin
-> the conversation.
+> Start with  
+> the ground  
+> you know,  
+> the pale ground  
+> beneath your feet,  
+> your own  
+> way to begin  
+> the conversation.  
 >
-> Start with your own
-> question,
-> give up on other
-> people’s questions,
-> don’t let them
-> smother something
-> simple.
+> Start with your own  
+> question,  
+> give up on other  
+> people’s questions,  
+> don’t let them  
+> smother something  
+> simple.  
 >
-> To hear 
-> another’s voice,
-> follow
-> your own voice,
-> wait until
-> that voice
-> becomes an
-> intimate private ear
-> that can
-> really listen
+> To hear  
+> another’s voice,  
+> follow  
+> your own voice,  
+> wait until  
+> that voice  
+> becomes an  
+> intimate private ear  
+> that can  
+> really listen  
 > to another.
 >
-> Start right now
-> take a small step
-> you can call your own
-> don’t follow
-> someone else’s
-> heroics, be humble
-> and focused,
-> start close in,
-> don’t mistake
-> that other
-> for your own.
+> Start right now  
+> take a small step  
+> you can call your own  
+> don’t follow  
+> someone else’s  
+> heroics, be humble  
+> and focused,  
+> start close in,  
+> don’t mistake  
+> that other  
+> for your own.  
 >
-> Start close in,
-> don’t take the second step
-> or the third,
-> start with the first
-> thing
-> close in,
-> the step
-> you don’t
-> want to take.
+> Start close in,  
+> don’t take the second step  
+> or the third,  
+> start with the first  
+> thing  
+> close in,  
+> the step  
+> you don’t  
+> want to take.  
 
 A throughline of David Whyte’s lecture series’ has been this idea of starting a new, truer conversation with ourselves by asking ourselves a more beautiful question. And not only asking it, but *discerning* what that question might be by giving ourselves space, and often, silence. We may even need to stop the conversation we are currently having in order to begin a new one. This, he says, is the beginning of saying yes to the invitation life is making to us in this moment.
 
@@ -93,22 +93,22 @@ Even writing those words, the question raises itself—“What’s wrong with ma
 
 But as a writer, something in me rebels against having *solely* that kind of relationship with my writing. It’s why, even though I write so much, even though I’ve worked very hard to develop a system that allows me to share without a lot of friction, I still publish very little of my writing. Most of my words, I keep to myself.
 
-> Start with 
-> the ground
-> you know,
-> the pale ground
-> beneath your feet,
-> your own
-> way to begin
-> the conversation.
+> Start with  
+> the ground  
+> you know,  
+> the pale ground  
+> beneath your feet,  
+> your own  
+> way to begin  
+> the conversation.  
 >
-> Start with your own
-> question,
-> give up on other
-> people’s questions,
-> don’t let them
-> smother something
-> simple.
+> Start with your own  
+> question,  
+> give up on other  
+> people’s questions,  
+> don’t let them  
+> smother something  
+> simple.  
 
 Even though I’ve slowly, steadily built a process that helps me publish my work without a lot of friction, social media is still difficult for me. [I started with Instagram](https://mailchi.mp/andyet/how-we-are-using-instagram); it felt safer, less self-promotion-ey, but also not quite a fit for me as a *writer*; seems obvious now. Then I experimented with putting whatever I had to say on one or all of The Big Four (Twitter, Facebook, Insta, LinkedIn), tailoring the content to the platform. How exhausting. Currently I’m just on [Twitter](https://twitter.com/sarahavenir), sometimes. 
 
@@ -132,29 +132,29 @@ Newport’s approach to figuring this out is to get clear on your goals, and the
 
 I like Dante’s approach, personally. In David Whyte’s most recent lecture, he explained that he was inspired to write Start Close In by the opening lines in [The Divine Comedy](https://digitaldante.columbia.edu/dante/divine-comedy/).
 
-> Nel mezzo del cammin di nostra vita
-> mi ritrovai per una selva oscura
-> ché la diritta via era smarrita.
+> Nel mezzo del cammin di nostra vita  
+> mi ritrovai per una selva oscura  
+> ché la diritta via era smarrita.  
 >
-> In the middle of the road of my life
-> I awoke in a dark wood,
-> where the true way was wholly lost.
+> In the middle of the road of my life  
+> I awoke in a dark wood,  
+> where the true way was wholly lost.  
 
 Whyte went on to explain that what we now know as Italian was, then, merely a little known local dialect. It was Dante’s mother tongue.
 
 If Dante had wanted his work to be seen and respected by educated people, he would have needed to write it in Latin. And yet, he didn’t. It was a radical choice, seemingly a foolish one. And it was exactly right. Dante started as close in as he could go.
 
-> To hear 
-> another’s voice,
-> follow
-> your own voice,
-> wait until
-> that voice
-> becomes an
-> intimate private ear
-> that can
-> really listen
-> to another.
+> To hear  
+> another’s voice,  
+> follow  
+> your own voice,  
+> wait until  
+> that voice  
+> becomes an  
+> intimate private ear  
+> that can  
+> really listen  
+> to another.  
 
 There’s something people fail to mention in their attempts to help you “find your voice.” It’s that once you find it, you might not like it all that much. You may appreciate certain aspects of it, but you will also become very familiar with its annoyances. In this case, familiarity is almost certain to breed contempt.
 
@@ -174,17 +174,17 @@ Humility, to them, is not about believing you are small; it is about noticing th
 
 Ironically, when we are able to let go of our egos, to see clearly and to love fully, it is only then that we can experience true safety, love, and belonging. Or at least that’s what the ancient sages, myths, stories, and wisdom traditions tell us.
 
-> Start right now
-> take a small step
-> you can call your own
-> don’t follow
-> someone else’s
-> heroics, be humble
-> and focused,
-> start close in,
-> don’t mistake
-> that other
-> for your own.
+> Start right now  
+> take a small step  
+> you can call your own  
+> don’t follow  
+> someone else’s  
+> heroics, be humble  
+> and focused,  
+> start close in,  
+> don’t mistake  
+> that other  
+> for your own.  
 
 So how do we develop this humility, this willingness to be deeply ordinary in our own truth? The monks do it through prayers and chanting “without ceasing” so that they become forever aware of their own need for help. “Lord, have mercy. Lord, have mercy. Lord, have mercy.”
 
@@ -194,15 +194,15 @@ We can also keep ourselves away from situations that we know are very likely to 
 
 But you know, I’m not sure. That’s what it looks like to me right now, in my attempt to come up with a strategy. Maybe I need to question that instinct, too.
 
-> Start close in,
-> don’t take the second step
-> or the third,
-> start with the first
-> thing
-> close in,
-> the step
-> you don’t
-> want to take.
+> Start close in,  
+> don’t take the second step  
+> or the third,  
+> start with the first  
+> thing  
+> close in,  
+> the step  
+> you don’t  
+> want to take.  
 
 January is, of course, a time for new beginnings, but I’m more into slow beginnings these days. At &yet, we take the month of January to think about what we want in the year ahead. Our forward motion doesn’t begin until February.
 
