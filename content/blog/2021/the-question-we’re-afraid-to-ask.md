@@ -92,7 +92,7 @@ But somehow, being online makes me prone to questioning that truth in pursuit of
 
 Even writing those words, the question raises itself—“What’s wrong with making something extrinsically pleasing, cohesive, and measurably valuable to others? Why else publish?” And of course there’s nothing wrong with it, not inherently. But as a writer, something in me rebels against having *solely* that kind of relationship with my writing. It’s why, even though I write so much, even though I’ve worked very hard to develop a system that allows me to share without a lot of friction, I still publish very little of my writing. Most of my words, I keep to myself.
 
-I recently took a class from [Clarinda Braun](https://www.thematriarchalbusiness.com), a consultant focused on de-colonizing business through matriarchy. One principle she taught us is that the impulse of the white/colonial lens is to "extract, exploit, exotify, and simplify." It makes me wonder: how much of the tension I experience is related to the colonizing mindset inherent in my ancestry and culture? Is some part of me trying to colonize my own self?
+I recently took a class from [Clarinda Braun](https://www.thematriarchalbusiness.com), a consultant focused on de-colonizing business through matriarchy. (I highly recommend learning from her. She has brilliant energy and her insight is incisive.) One principle she taught us is that the impulse of the white/colonial lens is to "extract, exploit, exotify, and simplify." It makes me wonder: how much of the tension I experience is related to the colonizing mindset inherent in my ancestry and culture? Is some part of me trying to colonize my own self?
 
 > Start with  
 > the ground  
