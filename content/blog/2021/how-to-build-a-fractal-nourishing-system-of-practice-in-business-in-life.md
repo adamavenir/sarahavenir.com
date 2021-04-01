@@ -5,7 +5,7 @@ date: 2021-04-01T01:03:10.832Z
 description: "Part one: A story about productivity systems, personal growth, and
   discovering alternatives to both"
 ---
-# Part one: A story about productivity systems, personal growth, and discovering alternatives to both
+## Part one: A story about productivity systems, personal growth, and discovering alternatives to both
 
 I was on a podcast the other day, and the host asked me, “Are you a startup CEO or a maintenance CEO?”
 
