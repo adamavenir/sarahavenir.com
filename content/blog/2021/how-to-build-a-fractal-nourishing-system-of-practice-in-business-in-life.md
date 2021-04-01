@@ -5,6 +5,8 @@ date: 2021-04-01T01:03:10.832Z
 description: "Part one: A story about productivity systems, personal growth, and
   discovering alternatives to both"
 ---
+# Part one: A story about productivity systems, personal growth, and discovering alternatives to both
+
 I was on a podcast the other day, and the host asked me, “Are you a startup CEO or a maintenance CEO?”
 
 Fifteen or even five years ago, I would have absolutely identified with the passionate, impulsive nature of the visionary—someone who’s good at kindling fires but bad at keeping them burning. My natural bent is to pour myself totally into some grand pursuit (and, if I'm being honest, to run hard and fast away from outcomes I dread).
@@ -33,9 +35,9 @@ That’s been my experience. Yours will be different. But ultimately, this is th
 
 # Principles for a system of practice
 
-The word “system” can be applied at so many levels it’s almost meaningless on its own. What we’re really talking about is a “system of practice\[undefined].”
+The word “system” can be applied at so many levels it’s almost meaningless on its own. What we’re really talking about is a “system of practice[^3].”
 
-A system of practice is an emergent approach to living and working\[undefined]. Even though the phrase sounds a bit stodgy, I decided to use it as an alternative to the productivity systems and hustle culture that dominate professional life (and even our personal lives). Our systems of practice are not meant to wrangle us into society’s standard for performance or health. In fact, I arrived at my current approach because I was looking for an antidote to the impact of over a decade of self-optimization.
+A system of practice is an emergent approach to living and working[^4]. Even though the phrase sounds a bit stodgy, I decided to use it as an alternative to the productivity systems and hustle culture that dominate professional life (and even our personal lives). Our systems of practice are not meant to wrangle us into society’s standard for performance or health. In fact, I arrived at my current approach because I was looking for an antidote to the impact of over a decade of self-optimization.
 
 Instead, systems of practice provide a foundation of service and care for the person or people they’re designed for. While the visible results of integrating these systems may *look* like expanded capacity, increased knowledge, deepened skill, consistent output, or similar “productive” aims, these are not the point. The point is what is *invisible*: the person or people themselves, and what they need to flourish.
 
@@ -43,11 +45,11 @@ Also, a warning: if we are truly prioritizing service and care for ourselves as 
 
 A system that prioritizes care for people relies on developing an ongoing *practice* instead of optimizing for efficient *output*. What are the rituals, the tools, the applications of effort, in short, the “practices” needed to cultivate an environment of well-being? How do we keep our focus on what we practice, rather than on what we produce, when the culture we’re steeped in is constantly tempting us to do otherwise?
 
-In order to have any hope of shifting our view, we can consider the deeply entrenched values that drive our desire for productivity. Efficiency, predictability, and control are fine goals when applied to how we steward our material resources, but they’re terrible “first principles” when applied to how we invest our *most* precious resources—our time, effort, energy, and attention\[undefined].
+In order to have any hope of shifting our view, we can consider the deeply entrenched values that drive our desire for productivity. Efficiency, predictability, and control are fine goals when applied to how we steward our material resources, but they’re terrible “first principles” when applied to how we invest our *most* precious resources—our time, effort, energy, and attention[^5].
 
-This seems obvious, but it’s not the default. The underlying hope we have in our productivity systems, for example, is that they will help us create our finest work in abundance and on schedule, fully in control of the level of success we want to achieve. We judge ourselves for our messy humanity and look forward to the day when we finally have our shit together. In other words, we not only want efficiency, predictability, and control over our work processes, we feel that we *ourselves* should be more efficient, predictable, and in control in order to reach our full potential. This puts pressure on us to heroically pursue an isolating and never-ending pursuit of personal growth\[undefined].
+This seems obvious, but it’s not the default. The underlying hope we have in our productivity systems, for example, is that they will help us create our finest work in abundance and on schedule, fully in control of the level of success we want to achieve. We judge ourselves for our messy humanity and look forward to the day when we finally have our shit together. In other words, we not only want efficiency, predictability, and control over our work processes, we feel that we *ourselves* should be more efficient, predictable, and in control in order to reach our full potential. This puts pressure on us to heroically pursue an isolating and never-ending pursuit of personal growth[^6].
 
-Unlike productivity systems, which glorify the individual (often at the expense of the needs of the whole), systems of practice can be both personal *and* collective. We can build them on an individual, team, organizational, or even community level. Because it’s true that “in the particular is contained the universal\[undefined],” we start first with ourselves, and then move outward from there. We’re no longer isolated chasing after our own potential, but are interconnected with the people around us who make our lives rich and meaningful. We naturally provide nourishment and strength to each other as we are nourished and strengthened.
+Unlike productivity systems, which glorify the individual (often at the expense of the needs of the whole), systems of practice can be both personal *and* collective. We can build them on an individual, team, organizational, or even community level. Because it’s true that “in the particular is contained the universal[^7],” we start first with ourselves, and then move outward from there. We’re no longer isolated chasing after our own potential, but are interconnected with the people around us who make our lives rich and meaningful. We naturally provide nourishment and strength to each other as we are nourished and strengthened.
 
 And so, what are the underlying values we can bring to our systems of practice?
 
@@ -57,7 +59,7 @@ Here are a few I’ve been considering.
 
 To build durable, fruitful systems of practice, the most powerful resource we have is not our intelligence or willpower or the tools we’re using, but the passage of *time* and the ability to *integrate* any new approach with our existing way of life.
 
-How often have we tried a new tool or taken a class or implemented a new strategy and thought to ourselves, “This is it! This is The One!” For a few days, weeks, or months, we’re on a roll. The New Thing is going great; we can see our best, most productive, most capable selves on the horizon. Only to realize after a few weeks or months that it wasn’t “It,” it was never “It,” maybe there is no “It\[undefined].”
+How often have we tried a new tool or taken a class or implemented a new strategy and thought to ourselves, “This is it! This is The One!” For a few days, weeks, or months, we’re on a roll. The New Thing is going great; we can see our best, most productive, most capable selves on the horizon. Only to realize after a few weeks or months that it wasn’t “It,” it was never “It,” maybe there is no “It[^8].”
 
 Over time, you might continue to be optimistic, even though you find yourself going through this cycle again and again. Or you might become cynical and give up on systems entirely. But once in a while, something promising will capture your attention, and you’ll wistfully consider “what if…?”
 
@@ -71,13 +73,13 @@ And yet, that’s what many of us do. We love building systems for ourselves. So
 
 Our two most valuable tools, then, are not our tech stack or our goal-setting framework. Those are just bricks or an extra staircase. Our two most important tools are *time* and *iterative integration*. Slow growth is the name of the game here. There are times when we need to make big, quick pivots to something totally new, but not in the context of building a sustainable system of practice.
 
-A commitment to slow integration sounds simple, but it takes gentle discipline\[undefined]: the kind of nurturance that stems from cherishing our present and future selves and committing to being in our own corner. This doesn’t mean being perfect; it does mean that when we *don’t* show up for ourselves, we ask ourselves, “What’s going on? What do you need?”\[undefined] Developing that kind of discipline means taking the space to get curious and be patient with ourselves, not pushing through and “getting things done” but pausing so we can tend to what’s going on underneath.
+A commitment to slow integration sounds simple, but it takes gentle discipline[^9]: the kind of nurturance that stems from cherishing our present and future selves and committing to being in our own corner. This doesn’t mean being perfect; it does mean that when we *don’t* show up for ourselves, we ask ourselves, “What’s going on? What do you need?”[^10] Developing that kind of discipline means taking the space to get curious and be patient with ourselves, not pushing through and “getting things done” but pausing so we can tend to what’s going on underneath.
 
 We love the *idea* of “slow” movements, but in a business context, we have a deep bias toward urgency, hurry, and stress. Time feels like a luxury we may not have. Even if you *think* you have it in theory, try slowing down instead of speeding up the next time that urgent feeling hits. It’s enormously difficult, and can even feel irresponsible or risky.
 
-But giving ourselves time is not only good for our nervous systems and sense of well-being (even if we have to sit on our hands\[undefined] in order to do it), it also makes us better decision-makers. Our conscious and unconscious minds need breathing room to do their best work, connecting new ideas with previous knowledge and gathering information to validate or invalidate those ideas. When we give ourselves the gift of time, our ideas are allowed to take root (or not), intermingling with the other roots we’ve already established.
+But giving ourselves time is not only good for our nervous systems and sense of well-being (even if we have to sit on our hands[^11] in order to do it), it also makes us better decision-makers. Our conscious and unconscious minds need breathing room to do their best work, connecting new ideas with previous knowledge and gathering information to validate or invalidate those ideas. When we give ourselves the gift of time, our ideas are allowed to take root (or not), intermingling with the other roots we’ve already established.
 
-Time also allows us to gradually, intentionally include other people in our thinking, even if we are introverts who do our best work in private. We don’t have to rush to make something happen in order to receive the social, economic, or career benefits of having done it. We can create out loud\[undefined], letting our ideas develop on a more organic timeline, seeing what resonates with others even as we’re paying close attention to what’s resonating with *us*.
+Time also allows us to gradually, intentionally include other people in our thinking, even if we are introverts who do our best work in private. We don’t have to rush to make something happen in order to receive the social, economic, or career benefits of having done it. We can create out loud[^12], letting our ideas develop on a more organic timeline, seeing what resonates with others even as we’re paying close attention to what’s resonating with *us*.
 
 Moving slowly and allowing for the passage of time is not a passive activity. It’s incredibly active as we start integrating one small facet of our idea after another. It’s not about waiting until you have everything figured out; it’s about acting intentionally, in small ways, as soon as it feels right to act.
 
@@ -87,7 +89,7 @@ Still, there will be times when you’re sure that a quick pivot is needed, and 
 
 While it may be hard at first, taking a slower, integrative approach will deepen your sense of safety (and yes, joy) as it expands your capacity to allow for things to grow rather than force them. When those things grow, their roots will be strong and well-nourished. You’ll start to experience a sense of ease where it used to feel like an exhausting, never-ending push.
 
-That ease is not necessarily comfortable. Sometimes we’re so used to the constant striving that anything less feels strange and awkward. As much as we think we want more ease in our lives, we might wonder if we’re doing enough if we’re not constantly rushed and anxious. We might question our value or feel antsy or vaguely dissatisfied. Those feelings, too, are normal. As we practice living out the values we *truly* want in our lives, we’ll also practice letting our emotions co-exist with our process\[undefined].
+That ease is not necessarily comfortable. Sometimes we’re so used to the constant striving that anything less feels strange and awkward. As much as we think we want more ease in our lives, we might wonder if we’re doing enough if we’re not constantly rushed and anxious. We might question our value or feel antsy or vaguely dissatisfied. Those feelings, too, are normal. As we practice living out the values we *truly* want in our lives, we’ll also practice letting our emotions co-exist with our process[^13].
 
 I often think about that Victor Frankl quote, “Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.” Time and iterative integration give us the gift to deliberately respond to whatever life brings us, allowing us to build the kind of lives that are nourishing for us to live.
 
@@ -99,11 +101,11 @@ But people aren’t designed for *more*, *better*, *faster*. We have limits. We 
 
 Designing a system of practice to be as efficient as possible may work for a while (when our willpower is at its strongest), but it ultimately works against our nature. Potency is a more sustainable aim.
 
-A potent system uses human thoughtfulness as its core strength. We explore the highest impacts we want to see in ourselves and in the world to know where to best leverage our resources. Sometimes these impacts are less tangible than others. After all, “it is only with the heart that one can see rightly; what is essential is invisible to the eye.\[undefined]” We create the most potency when we integrate our heads with our hearts to make our way through.
+A potent system uses human thoughtfulness as its core strength. We explore the highest impacts we want to see in ourselves and in the world to know where to best leverage our resources. Sometimes these impacts are less tangible than others. After all, “it is only with the heart that one can see rightly; what is essential is invisible to the eye.[^14]” We create the most potency when we integrate our heads with our hearts to make our way through.
 
 This kind of thoughtfulness can be inefficient in the moment, as we fluidly question the status quo and subtly re-align our movement in response to what is *really* needed. But over time, it allows us to act on new information in a way that efficiency does not.
 
-As we do this, we look for opportunities for alignment. Alignment allows us to work fractally, where working on the small and the close-in is also working on the large and the far-away\[undefined]\[undefined]. When we align what we want with what we need, and then align those needs with the needs and desires of others, we create significant opportunities for potency. Working fractally means that any time we work on any of the pieces involved, we are working on the whole thing.
+As we do this, we look for opportunities for alignment. Alignment allows us to work fractally, where working on the small and the close-in is also working on the large and the far-away[^15][^16]. When we align what we want with what we need, and then align those needs with the needs and desires of others, we create significant opportunities for potency. Working fractally means that any time we work on any of the pieces involved, we are working on the whole thing.
 
 Fractals are a fascinating efficiency of nature. A fern looks like a fern, whether you’re looking at one stem or the whole plant. Each leaf is repeated, over and over, in the same way that each stem is repeated over and over, in the same way that each frond is repeated over and over, creating a unified pattern for the whole.
 
@@ -119,9 +121,9 @@ Even as we honor our human and material limits, moving in the direction of poten
 
 Systems and plans give us a feeling of comfortable predictability. We know what to do and how to do it. We know that we have enough fuel for the road. We may not trust ourselves in any particular moment, but we trust in the ability of a well-thought-out and consistently executed plan to see us through.
 
-We make our systems and plans as an act of preparation, before we get started on the actual path. This makes sense, sort of. It helps us think through what we’re about to do so we can attempt to take the shortest path with the least obstacles, avoiding the dangers we most fear. At the same time, rigidly adhering to plans we made at the beginning makes no sense at all. We know *the very least* about where we’re headed before we’ve begun.\[undefined] Still, we trust that version of ourselves and its well-laid plans more than the version who now sees what was previously unseen.
+We make our systems and plans as an act of preparation, before we get started on the actual path. This makes sense, sort of. It helps us think through what we’re about to do so we can attempt to take the shortest path with the least obstacles, avoiding the dangers we most fear. At the same time, rigidly adhering to plans we made at the beginning makes no sense at all. We know *the very least* about where we’re headed before we’ve begun.[^17] Still, we trust that version of ourselves and its well-laid plans more than the version who now sees what was previously unseen.
 
-Since the world (and we ourselves) is always changing, our systems must fluidly adjust as we go. Like a unicyclist trying to stay balanced, these shifts might be imperceptible to others, but they are happening in every moment.\[undefined]
+Since the world (and we ourselves) is always changing, our systems must fluidly adjust as we go. Like a unicyclist trying to stay balanced, these shifts might be imperceptible to others, but they are happening in every moment.[^18]
 
 The trick is to make these shifts in an additive way, rather than a subtractive one, building on previous discoveries rather than tearing down what we’ve already built. If we do this in the spirit of slow integration, we limit the need for destroying the old to make way for the new. We find ourselves spiraling ever forward and upward, revisiting our same old selves at different points, but always from a higher perch.
 
@@ -141,7 +143,7 @@ Flexible systems leave space for the unoptimized and the underutilized. By only 
 
 Part of the appeal of our systems is not only that we hope to predict the unpredictable and control the uncontrollable, but also that we want to predict and control those things within *ourselves* that feel unpredictable and uncontrollable. If we’re honest, our productivity systems often stem from a lack of self-trust. After all, we’ve been breaking our own promises to ourselves for as long as we’ve been alive. I’m not sure why we think that *this* time we’ll keep it up, but we do. It’s both our strength and our weakness.
 
-I appreciate the principle of “basic goodness\[undefined]” to counterbalance this “basic badness” we believe about ourselves. Our lives teach us that whenever a living thing is planted in the environment it was made for and given the nourishment that it needs, it thrives. Whenever it’s in the wrong environment or goes undernourished, it withers.
+I appreciate the principle of “basic goodness[^19]” to counterbalance this “basic badness” we believe about ourselves. Our lives teach us that whenever a living thing is planted in the environment it was made for and given the nourishment that it needs, it thrives. Whenever it’s in the wrong environment or goes undernourished, it withers.
 
 We’re part of the natural world. We have needs, either provided for or not in the environments we find ourselves in. When we wither instead of flourish, we can ask ourselves, “What kind of environment do I thrive within? How can I cultivate that environment for myself in some small way?”
 
@@ -158,3 +160,37 @@ So if any of this speaks to you, let me know (you can email me at sarah@andyet.c
 [^1]: As the story goes, “beyond category” was the phrase Duke Ellington used to describe his highest praise for a musician or a musical experience. We use it at &yet to remind ourselves that our creative impulse to make new, cross-disciplinary, and hard-to-describe “labors of love” (whether it be a gathering, a piece of software, an interactive digital experience, or even a pair of socks) is a strength, even if it means we don’t always fit neatly into a set of boxes.
 
 [^2]: I still laugh every time I hear people say “we 10xed” this or “we 20xed” that. How do you even write that? I still don’t know.
+
+[^3]: I was inspired to think about the term “systems of practice” as an alternative to productivity systems through Melissa Gregg’s work, Counterproductive: Time Management in the Knowledge Economy.
+
+[^4]: I’ve been deeply inspired on the principle of emergence by adrienne maree brown’s excellent work, Emergent Strategy: Shaping Change, Changing Worlds.
+
+[^5]: I was inspired to consider stewardship of “our most precious resources” by coach and Needy podcast host Mara Glatzel.
+
+[^6]: There’s so much I could say here. For more context on the history of productivity culture and how it’s become the water we swim in, I again point to Melissa Gregg’s Counterproductive as a great (if somewhat depressing) resource.
+
+[^7]: Yay James Joyce.
+
+[^8]: Ask anyone who knows me, this is totally me. I still get teased about my brief but passionate love affair with Trello boards. Now it’s Roam (I currently write daily-ish updates at roam.sarahavenir.com). How I do love new tools.
+
+[^9]: I learned the term “gentle discipline” from teacher and Hurry Slowly podcast host Jocelyn K. Glei, in her Hi-Fi course.
+
+[^10]: This is another skill I’ve been learning from Mara Glatzel this year. It’s been incredibly transformative.
+
+[^11]: “Sitting on our hands” is another gem from Mara Glatzel. It describes how uncomfortable changing our patterns can be (largely because we developed those patterns in an effort to keep ourselves safe). Sometimes we literally or figuratively need to “sit on our hands” in order to do what we know is best for us, to keep us from reacting in our old ways.
+
+[^12]: I could write a whole book on this idea. Oh wait, I have! For the curious, you can read more in Gather the People.
+
+[^13]: As an emotionally sensitive person, this is one of the hardest and most valuable practices I’m learning.
+
+[^14]: The Little Prince by Antoine de Saint-Exupery is one of my forever-favorites.
+
+[^15]: I first learned about working fractally from Havi Brooks of The Fluent Self, where she talked about “fractal flowers”—a way of viewing the things in our domain as completely interconnected. I’ve also learned so much from what adrienne maree brown has written in Emergent Strategy about fractals as a model for organizing.
+
+[^16]: “Close-in” is a reference to David Whyte’s poem Start Close In, one of my favorites to inspire my own knowing about where I should begin.
+
+[^17]: I’ve learned this irony from my partner Adam, who often references Pablo Picasso’s, “You have to have an idea of what you are going to do, but it should be a vague idea.”
+
+[^18]: I learned the metaphor of the unicyclist from my friend Brooke Snow, in a podcast we did together many years back.
+
+[^19]: “Basic goodness” is a term from the Shambhala Buddhist community, popularized in the U.S. by Chogyam Trungpa in Shambhala: The Sacred Path of the Warrior.
