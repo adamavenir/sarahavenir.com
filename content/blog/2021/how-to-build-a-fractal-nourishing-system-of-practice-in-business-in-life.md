@@ -5,7 +5,7 @@ date: 2021-04-01T01:03:10.832Z
 description: "Part one: A story about productivity systems, personal growth, and
   discovering alternatives to both"
 ---
-## Part one: A story about productivity systems, personal growth, and discovering alternatives to both
+### Part one: A story about productivity systems, personal growth, and discovering alternatives to both
 
 I was on a podcast the other day, and the host asked me, “Are you a startup CEO or a maintenance CEO?”
 
@@ -153,7 +153,9 @@ Any enduring system of practice must be rooted in nourishment, allowing for ongo
 
 # What’s next
 
-This series is likely to be a slow one, in keeping with the principle of “slow integration.” (Also? This took me three and a half weeks to write, so there’s that.) There’s a lot in this essay alone, and we haven’t even gotten to the practical, “how do we actually do this” stuff yet—which is what I *actually* want to write about. On the one hand, I read so much about how awful things are now and why they’re so terrible. On the other, I read a lot of philosophy about the way things should be and *could* be. The thing I’d like to see more people writing about is how they’re bridging the gap between the two, however imperfectly. That’s my intention with these essays (and for the [book I’m writing](http://peoplefirstgrowth.com)—these essays are helping me explore the next few chapters in more depth).
+This series is likely to be a slow one, in keeping with the principle of “slow integration.” (Also? This took me three and a half weeks to write, so there’s that.) If you'd like to be notified when I release the next one, [sign up for my newsletter](https://sarahavenir.com/newsletter).
+
+There’s a lot in this essay alone, and we haven’t even gotten to the practical, “how do we actually do this” stuff yet—which is what I *actually* want to write about. On the one hand, I read so much about how awful things are now and why they’re so terrible. On the other, I read a lot of philosophy about the way things should be and *could* be. The thing I’d like to see more people writing about is how they’re bridging the gap between the two, however imperfectly. That’s my intention with these essays (and for the [book I’m writing](http://peoplefirstgrowth.com)—these essays are helping me explore the next few chapters in more depth).
 
 So if any of this speaks to you, let me know (you can email me at sarah@andyet.com). I’d also love any questions or feedback as I continue writing. If there’s anyone who I forgot to include source information for, please tell me. And if you have any “Sarah, I really wish you would do \[THIS] with this,” ideas, I’d be grateful if you’d complete that sentence. Right now I’m focused on simply finishing the essays, but I’m always thinking of new ways I can share whatever I’ve learned that’s helpful.
 
