@@ -553,5 +553,26 @@ article.post-list-item {
   }
 }
 
-@media (max-width: 400px) {
+@media (min-width: 800px) {
+  h1 {
+    font-size: var(--fontSize-6);
+    line-height: 1.4;
+  }
+  h2 {
+    font-size: var(--fontSize-5);
+    line-height: 1.4;
+  }
+  h3 {
+    font-size: var(--fontSize-5);
+    line-height: 1.4;
+  }
+  h4 {
+    font-size: var(--fontSize-4);
+  }
+  p,
+  li,
+  blockquote {
+    font-size: 20px;
+    line-height: 1.7;
+  }
 }
