@@ -34,3 +34,5 @@ But of course that’s not how it works. We can’t grieve things that aren’t 
 The best I can do in this moment is to remember the temporary nature of all things, and to use that to appreciate that we get to be here, together, right now. Grief and gratitude strike me as the closest of siblings.
 
 Goodbye, little brother. I miss you so much.
+
+![Me and my brother Nathan](content/blog/img_0880.jpg)
