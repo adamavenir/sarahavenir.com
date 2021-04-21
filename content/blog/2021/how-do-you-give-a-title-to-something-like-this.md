@@ -35,4 +35,4 @@ The best I can do in this moment is to remember the temporary nature of all thin
 
 Goodbye, little brother. I miss you so much.
 
-![Me and my brother Nathan](content/blog/img_0880.jpg)
+![Me and my brother Nathan, circa 1986](content/blog/img_0880.jpg)
