@@ -55,21 +55,26 @@ const Bio = () => {
         {author?.name && (
           <div className="about-me">
             <p>
-              I’m the CEO of <a href="https://andyet.com">&yet</a> and a student
-              and teacher of people-first growth. While working on{" "}
-              <a href="http://peoplefirstgrowth.com">my second book</a>, I’m
+          I’m a student and teacher of people-first growth. Having spent the major part of the last two decades building weird businesses that tried to be good for humans, I'm now working privately on a few experimental projects and cultivating this little digital space of mine.
+            </p>
+            <p>
+          If you're new here, I'm working on my second book,{" "}
+              <a href="http://peoplefirstgrowth.com">People-First Growth</a> (slowly, slowly said the sloth), and I’m
               sharing what I learn in my{" "}
-              <Link to="/newsletter">newsletter</Link> and on{" "}
+              <Link to="/newsletter">newsletter</Link>. If you geek out on digital gardening, I share mine publicly on{" "}
               <a href="http://roam.sarahavenir.com">Roam</a>. You can{" "}
               <a href="https://ask.sarahavenir.com">ask me anything</a> or say
               hi on <a href="https://twitter.com/sarahavenir">Twitter</a> or by{" "}
               <a href="mailto:sarahavenir@hey.com">email</a>.
             </p>
             <p>
-              I recently released the second edition of my first book,{" "}
-              <a href="https://gatherthepeople.com">Gather the People</a>, a
+              You can also read my first book,{" "}
+              <a href="https://gatherthepeople.com">Gather the People</a>, originally released in 2005 and updated in 2020 (what a year for a book release). It's a
               human approach to marketing for people who would rather make what
-              they love than persuade people to buy it.
+              they love than persuade people to buy it. If that's you, I hope it helps.
+            </p>
+            <p>
+                My current experiment is getting into{" "}<Link to="/writing">old-school blogging</a> again. You know, the kind that felt like a personal update rather than Content. I'm all for downgrading the user experience here.
             </p>
             <nav>
               <Link to="/writing">
