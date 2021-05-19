@@ -67,15 +67,14 @@ const Bio = () => {
               (slowly, slowly said the sloth), and I’m sharing what I learn in
               my <Link to="/newsletter">newsletter</Link>. If you geek out on
               digital gardening, I share mine publicly on{" "}
-              <a href="http://roam.sarahavenir.com">Roam</a>. You can{" "}
-              <a href="https://ask.sarahavenir.com">ask me anything</a> or say
+              <a href="http://roam.sarahavenir.com">Roam</a>. You can say
               hi on <a href="https://twitter.com/sarahavenir">Twitter</a> or by{" "}
               <a href="mailto:sarahavenir@hey.com">email</a>.
             </p>
             <p>
               You can also read my first book,{" "}
               <a href="https://gatherthepeople.com">Gather the People</a>,
-              originally released in 2005 and updated in 2020 (what a year for a
+              originally released in 2015 and updated in 2020 (what a year for a
               book release). It's a human approach to marketing for people who
               would rather make what they love than persuade people to buy it.
               If that's you, I hope it helps.
