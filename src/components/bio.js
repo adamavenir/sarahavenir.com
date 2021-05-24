@@ -79,12 +79,6 @@ const Bio = () => {
               would rather make what they love than persuade people to buy it.
               If that's you, I hope it helps.
             </p>
-            <p>
-              My current experiment is getting into{" "}
-              <Link to="/writing">old-school blogging</Link> again. You know,
-              the kind that felt like a personal update rather than Content. I'm
-              all for downgrading the user experience here.
-            </p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
