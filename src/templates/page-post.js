@@ -16,7 +16,7 @@ const PageTemplate = ({ data, location }) => {
       />
       <div className="global-wrapper">
         <article
-          className="blog-page"
+          className="page"
           itemScope
           itemType="http://schema.org/Article"
         >
