@@ -1,17 +1,11 @@
 ---
-title: Sarah Avenir is a student and teacher of people-first growth ✨
+title: This newsletter is for friends
 slug: newsletter
 ---
 
-Hello! I’m Sarah. You might know me as the author of [Gather the People](https://gatherthepeople.com) or as the CEO of [&yet](https://andyet.com), a digital agency focused on approaching business growth in ways that put people first. (But if you don't know me, you're in good company! I'm kind of a hermit who lives in my reading cave, popping out every now and again to let people know I'm still alive.)
+I don't mean that in the "we're all friends here" sense, necessarily. Although if you're here, we probably are (or we are friends of friends, which in my mind is the same thing). But if you're looking for a newsletter that is about topics relevant to your interests, this probably isn't that.
 
-I'm working on my next book, [People-First Growth](http://peoplefirstgrowth.com), and this newsletter is where I share the resources I'm discovering and thinks I'm thinking along the way.
-
-If you geek out on people-first growth stuff, you can follow along daily at [roam.sarahavenir.com](http://roam.sarahavenir.com). AND if you're into reading books as they're being written, head over to [peoplefirstgrowth.com](http://peoplefirstgrowth.com). But don't worry! If that's all too much, I'll make sure to keep you posted in the newsletter.
-
-Looking forward to sharing with you!
-
-<3, Sarah
+I send out this newsletter from time to time, whenever I have something worth saying or I've made something worth sharing. Every time I send it, I have trouble getting back to my preferred serenity for a day or two, so I try to share thoughtfully, if infrequently. It is worth the sending though. It is wonderful when the things that make me come alive connect me in some small way to you.
 
 <form
 action="https://buttondown.email/api/emails/embed-subscribe/sarahavenir"
@@ -25,6 +19,4 @@ class="embeddable-buttondown-form"
 <input type="submit" value="✨Boop"></input>
 </form>
 
-P.S. If you’re curious, you can [browse the full archives](https://buttondown.email/sarahavenir/archive) of the newsletter.
-
-You can also [subscribe with RSS](https://buttondown.email/sarahavenir/rss) if you prefer.
+P.S. You can also [subscribe with RSS](https://buttondown.email/sarahavenir/rss) if you prefer.
