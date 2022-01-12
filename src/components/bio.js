@@ -84,7 +84,7 @@ const Bio = () => {
                   📚
                 </span>{" "}
                 Reading
-              </Link>
+              </a>
               <Link to="/newsletter">
                 <span role="img" aria-label="mailbox">
                   📬

@@ -17,7 +17,7 @@ const BlogPostTemplate = ({ data, location }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <h1 className="section-title">
-        <Link to="/writing">« Writing nook</Link>
+        <Link to="/writing">« Writing</Link>
       </h1>
       <div className="global-wrapper">
         <article
@@ -34,9 +34,6 @@ const BlogPostTemplate = ({ data, location }) => {
             itemProp="articleBody"
           />
           <hr />
-          <footer>
-            <Bio />
-          </footer>
         </article>
         <nav className="blog-post-nav">
           <ul

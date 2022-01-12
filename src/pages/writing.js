@@ -12,7 +12,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <div className="global-wrapper">
         <SEO title="✍️ Writing" />
-        <h1 className="section-title">Writing nook</h1>
+        <h1 className="section-title">Writing</h1>
         <ol style={{ listStyle: `none` }}>
           {posts.map(post => {
             const title = post.frontmatter.title || post.fields.slug
