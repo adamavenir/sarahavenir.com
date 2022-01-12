@@ -79,7 +79,7 @@ const Bio = () => {
                 </span>{" "}
                 Writing
               </Link>
-              <Link to="/reading">
+              <a href="http://roam.sarahavenir.com">
                 <span role="img" aria-label="books">
                   📚
                 </span>{" "}
