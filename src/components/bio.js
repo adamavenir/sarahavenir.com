@@ -72,6 +72,7 @@ const Bio = () => {
             <p>
               I may not be very loud on the Internet anymore, but I'm still here, taking this thing one step at a time. I do not know how to categorize what it is that I'm doing here, but I like Mary Ruefle's description of the member of the band who hits the triangle from time to time. I probably should find my own description, but I will gratefully point her way in the meantime.
             </p>
+            <p><em>Last updated: January 13, 2022</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
