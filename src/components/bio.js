@@ -56,10 +56,10 @@ const Bio = () => {
           <div className="about-me">
             <p>
               Having spent the major part of the last two decades building weird businesses that
-              tried to be good for people, I'm a bit done talking about that topic. I still wear my business hat daily, but I don't care to write about it, at least not often. I'd rather write about secret impossible things. Also things that are true. I'm now working privately on a few experimental projects, one of which I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon. (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.)
+              tried to be good for people, I'm a bit done talking about that topic. I still wear my business hat daily, but I don't care to write about it, at least not often. I'd rather write about secret impossible things. Also things that are true. 
             </p>
             <p>
-              If you're interested in digital gardening, I share what I'm learning in my public{" "}
+              I'm now working privately on a few experimental projects, one of which I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon. (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.) If you're interested in digital gardening, I share what I'm learning in my public{" "}
               <a href="http://roam.sarahavenir.com">Roam</a>. It may not make sense to anyone but me, but you can at least see what I'm reading and the passages that are speaking to me as I read them. You can say
               hi on <a href="https://twitter.com/sarahavenir">Twitter</a> (I'm still there, for some reason) or by{" "}
               <a href="mailto:sarahavenir@hey.com">email</a>.
