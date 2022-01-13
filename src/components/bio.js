@@ -61,7 +61,7 @@ const Bio = () => {
             <p>
               I'm now working privately on a few experimental projects, one of which I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon. (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.) If you're interested in digital gardening, I share what I'm learning in my public{" "}
               <a href="http://roam.sarahavenir.com">Roam</a>. It may not make sense to anyone but me, but you can at least see what I'm reading and the passages that are speaking to me as I read them. You can say
-              hi on <a href="https://twitter.com/sarahavenir">Twitter</a> (I'm still there, for some reason) or by{" "}
+              hi on <a href="https://twitter.com/sarahavenir">Twitter</a> (I'm still quietly there, for some reason) or by{" "}
               <a href="mailto:sarahavenir@hey.com">email</a>.
             </p>
             <p>
