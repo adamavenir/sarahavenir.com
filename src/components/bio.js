@@ -70,7 +70,7 @@ const Bio = () => {
               originally released in 2015 and updated in 2020. It was the book I needed as a business owner with the heart of an artist/hermit, and if that's you, I hope it helps.
             </p>
             <p>
-              I may not be very loud on the Internet anymore, but I'm still here, taking this thing one step at a time. I do not know how to categorize what it is that I'm doing here, but I like Mary Ruefle's description of the member of the band who hits the triangle from time to time. I probably should find my own description, but I will gladly point her way in the meantime.
+              I may not be very loud on the Internet anymore, but I'm still here, taking this thing one step at a time. I do not know how to categorize what it is that I'm doing here, but I like Mary Ruefle's description of the member of the band who hits the triangle from time to time. I probably should find my own description, but I will gratefully point her way in the meantime.
             </p>
             <nav>
               <Link to="/writing">
