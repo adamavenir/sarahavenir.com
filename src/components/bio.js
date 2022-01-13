@@ -56,7 +56,7 @@ const Bio = () => {
           <div className="about-me">
             <p>
               Having spent the major part of the last two decades building weird businesses that
-              tried to be good for people, I'm a bit done. I still wear my business hat daily, but I don't care to write about it, at least not often. I'd rather write about secret impossible things. Also things that are true. I'm now working privately on a few experimental projects, one of which I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon. (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.)
+              tried to be good for people, I'm a bit done talking about that topic. I still wear my business hat daily, but I don't care to write about it, at least not often. I'd rather write about secret impossible things. Also things that are true. I'm now working privately on a few experimental projects, one of which I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon. (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.)
             </p>
             <p>
               If you're interested in digital gardening, I share what I'm learning in my public{" "}
