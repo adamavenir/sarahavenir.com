@@ -59,7 +59,7 @@ const Bio = () => {
               tried to be good for people, I'm a bit done talking about that topic. I still wear my business hat daily, but I don't care to write about it, at least not often. I'd rather write about secret impossible things. Also things that are true. 
             </p>
             <p>
-              I'm now working privately on a few experimental projects, one of which I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon. (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.) If you're interested in digital gardening, I share what I'm learning in my public{" "}
+              I'm now working privately on a few experimental projects, one of which <strike>I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon</strike> <a href="https://itspostday.com">I just announced</a>! (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.) If you're interested in digital gardening, I share what I'm learning in my public{" "}
               <a href="http://roam.sarahavenir.com">Roam</a>. It may not make sense to anyone but me, but you can at least see what I'm reading and the passages that are speaking to me as I read them. You can say
               hi on <a href="https://twitter.com/sarahavenir">Twitter</a> (I'm still quietly there, for some reason) or by{" "}
               <a href="mailto:sarahavenir@hey.com">email</a>.
@@ -72,7 +72,7 @@ const Bio = () => {
             <p>
               I may not be very loud on the Internet anymore, but I'm still here, taking this thing one step at a time. I do not know how to categorize what it is that I'm doing here, but I like Mary Ruefle's description of the member of the band who hits the triangle from time to time. I probably should find my own description, but I will gratefully point her way in the meantime.
             </p>
-            <p><em>Last updated: January 13, 2022</em></p>
+            <p><em>Last updated: February 9, 2022</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
