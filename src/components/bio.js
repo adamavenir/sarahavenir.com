@@ -55,24 +55,20 @@ const Bio = () => {
         {author?.name && (
           <div className="about-me">
             <p>
-              Having spent the major part of the last two decades building weird businesses that
-              tried to be good for people, I'm a bit done talking about that topic. I still wear my business hat daily, but I don't care to write about it, at least not often. I'd rather write about secret impossible things. Also things that are true. 
+              Nice to meet you! I'm a writer and maker-of-weird-Internet-projects. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet. I make a living as co-founder and Chief of Staff at a startup, and I do some coaching and consulting on organizational alignment & leadership from time to time, but I don't talk about that here. This place is for friends and people who <em>would</em> be friends if we ever got the chance to meet.
             </p>
             <p>
-              I'm now working privately on a few experimental projects, one of which <strike>I'll be sharing in my <Link to="/newsletter">newsletter</Link> very soon</strike> <a href="https://itspostday.com">I just announced</a>! (Also, that newsletter? It only goes out when there's news. Sometimes there's no news for months.) If you're interested in digital gardening, I share what I'm learning in my public{" "}
-              <a href="http://roam.sarahavenir.com">Roam</a>. It may not make sense to anyone but me, but you can at least see what I'm reading and the passages that are speaking to me as I read them. You can say
-              hi on <a href="https://twitter.com/sarahavenir">Twitter</a> (I'm still quietly there, for some reason) or by{" "}
-              <a href="mailto:sarahavenir@hey.com">email</a>.
+              I invented a celebratory day called {" "}
+              <a href="https://itspostday.com">Post Day</a> that happens from time to time. Anyone can celebrate! I have a <Link to="/newsletter">mailing list</Link>, where I share the occasional essay and updates about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
+              <a href="http://roam.sarahavenir.com">Roam</a>. I am on <a href="https://twitter.com/sarahavenir">Twitter</a> sometimes, or you can{" "}
+              <a href="mailto:sarahavenir@hey.com">email</a> me.
             </p>
             <p>
               If you like reading about thoughtful business topics, you can read my first book,{" "}
               <a href="https://gatherthepeople.com">Gather the People</a>,
               originally released in 2015 and updated in 2020. It was the book I needed as a bootstrapping business owner with the heart of an artist/hermit, and if that's you, I hope it helps.
             </p>
-            <p>
-              I may not be very loud on the Internet anymore, but I'm still here, taking this thing one step at a time. I do not know how to categorize what it is that I'm doing here, but I like Mary Ruefle's description of the member of the band who hits the triangle from time to time. I probably should find my own description, but I will gratefully point her way in the meantime.
-            </p>
-            <p><em>Last updated: February 9, 2022</em></p>
+            <p><em>Last updated: February 22, 2022</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
@@ -90,7 +86,7 @@ const Bio = () => {
                 <span role="img" aria-label="mailbox">
                   📬
                 </span>{" "}
-                Newslettering
+                Emailing
               </Link>
             </nav>
           </div>
