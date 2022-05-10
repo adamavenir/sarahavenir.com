@@ -56,10 +56,10 @@ const Bio = () => {
           <div className="about-me">
             <p>
               Nice to meet you! I'm a writer and maker-of-weird-Internet-projects. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet. I make a living as co-founder and chief of staff at a web3 startup, and I do some coaching and consulting on organizational alignment & leadership from time to time. That's all I'll say about that here; you can{" "}
-              <a href="mailto:sarahavenir@hey.com">email me</a> if you need something along those lines. This place is for friends and people who <em>would</em> be friends if we ever got the chance to meet.
+              <a href="mailto:sarahavenir@hey.com">email me</a> if you need something along those lines. 
             </p>
             <p>
-              I invented a celebratory day called {" "}
+              This place is for friends and people who <em>would</em> be friends if we ever got the chance to meet. I invented a celebratory day called {" "}
               <a href="https://itspostday.com">Post Day</a> that happens from time to time. Anyone can celebrate! I have a <Link to="/newsletter">mailing list</Link>, where I share the occasional essay and updates about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
               <a href="http://roam.sarahavenir.com">Roam</a>. I am also on <a href="https://twitter.com/sarahavenir">Twitter</a> sometimes.
             </p>
