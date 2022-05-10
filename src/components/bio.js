@@ -55,7 +55,7 @@ const Bio = () => {
         {author?.name && (
           <div className="about-me">
             <p>
-              Nice to meet you! I'm a writer and maker-of-weird-Internet-projects. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet. I make a living as co-founder and chief of staff at a web3 startup, and I do some coaching and consulting on organizational alignment & leadership from time to time. That's all I'll say about that, because I don't talk about that here. This place is for friends and people who <em>would</em> be friends if we ever got the chance to meet.
+              Nice to meet you! I'm a writer and maker-of-weird-Internet-projects. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet. I make a living as co-founder and chief of staff at a web3 startup, and I do some coaching and consulting on organizational alignment & leadership from time to time. That's all I'll say about that here; you can email me if you need something along those lines. This place is for friends and people who <em>would</em> be friends if we ever got the chance to meet.
             </p>
             <p>
               I invented a celebratory day called {" "}
