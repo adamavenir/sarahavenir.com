@@ -55,15 +55,6 @@ const Bio = () => {
         {author?.name && (
           <div className="about-me">
             <p>
-<<<<<<< HEAD
-              Nice to meet you! I'm a writer and maker-of-weird-Internet-projects. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet. I make a living as co-founder and chief of staff at a web3 startup, and I do some coaching and consulting on organizational alignment & leadership from time to time. That's all I'll say about that here; you can{" "}
-              <a href="mailto:sarahavenir@hey.com">email me</a> if you need something along those lines. 
-            </p>
-            <p>
-              This place is for friends and people who <em>would</em> be friends if we ever got the chance to meet. I invented a celebratory day called {" "}
-              <a href="https://itspostday.com">Post Day</a> that happens from time to time. Anyone can celebrate! I have a <Link to="/newsletter">mailing list</Link>, where I share the occasional essay and updates about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
-              <a href="http://roam.sarahavenir.com">Roam</a>. I am also on <a href="https://twitter.com/sarahavenir">Twitter</a> sometimes.
-=======
               Nice to meet you! I'm a writer, reader, and aspiring hermit. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet.
             </p>
             <p>In my past life, I was a founder at various times and a CEO at various times, and I now make a living as co-founder and chief of staff at a web3 startup. I do some coaching and consulting on organizational alignment & leadership occasionally (if that's something you need, you can {" "}
@@ -80,7 +71,6 @@ const Bio = () => {
               <a href="http://roam.sarahavenir.com">Roam</a>. I am on {" "}
               <a href="https://twitter.com/sarahavenir">Twitter</a> sometimes, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
->>>>>>> 37cf10e573a5011b31db7e90da89436c61a4694e
             </p>
             <p>
               If you like reading about thoughtful business topics, you can read my first book,{" "}
