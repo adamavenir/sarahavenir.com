@@ -63,13 +63,12 @@ const Bio = () => {
             <p>
               I invented a celebratory day called {" "}
               <a href="https://itspostday.com">Post Day</a> that happens from time to time. Anyone can celebrate! {" "}
-              <a href="https://lovenotetoabook.substack.com">I write letters to books I have loved</a>. I also {" "}
-              <a href="https://twitter.com/lovenotetoabook">talk to my books on Twitter</a>, and sometimes they talk back.
+              <a href="https://lovenotetoabook.substack.com">I also write letters to books I have loved</a>. 
             </p>
             <p>
               I have a <Link to="/newsletter">mailing list</Link>, where I share the occasional update about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
-              <a href="http://roam.sarahavenir.com">Roam</a>. I am on {" "}
-              <a href="https://twitter.com/sarahavenir">Twitter</a> sometimes, or you can{" "}
+              <a href="http://roam.sarahavenir.com">Roam</a>. I am playing around with migrating to{" "}
+              <a href="https://tw.town/@sarahavenir">Mastodon</a>, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
             </p>
             <p>
@@ -77,7 +76,7 @@ const Bio = () => {
               <a href="https://gatherthepeople.com">Gather the People</a>,
               originally released in 2015 and updated in 2020. It was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
             </p>
-            <p><em>Last updated: July 26, 2022</em></p>
+            <p><em>Last updated: November 12, 2022</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
