@@ -57,9 +57,6 @@ const Bio = () => {
             <p>
               Nice to meet you! I'm a writer, reader, and aspiring hermit. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet.
             </p>
-            <p>In my past life, I was a founder at various times and a CEO at various times, and I now make a living as co-founder and chief of staff at a {" "}
-            <a href="https://code4rena.com">web3 startup</a>. I do some coaching and consulting on organizational alignment & leadership occasionally.
-            </p>
             <p>
               I invented a celebratory day called {" "}
               <a href="https://itspostday.com">Post Day</a> that happens from time to time. Anyone can celebrate! {" "}
@@ -70,6 +67,9 @@ const Bio = () => {
               <a href="http://roam.sarahavenir.com">Roam</a>. I am playing around with migrating to{" "}
               <a href="https://tw.town/@sarahavenir">Mastodon</a>, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
+            </p>
+            <p>In my past life, I was a founder at various times and a CEO at various times, and I now make a living as co-founder and chief of staff at a {" "}
+            <a href="https://code4rena.com">web3 startup</a>. I do some coaching and consulting on organizational alignment & leadership occasionally.
             </p>
             <p>
               If you like reading about thoughtful business topics, you can read my first book,{" "}
