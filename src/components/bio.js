@@ -57,7 +57,8 @@ const Bio = () => {
             <p>
               Nice to meet you! I'm a writer, reader, and aspiring hermit. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet.
             </p>
-            <p>In my past life, I was a founder at various times and a CEO at various times, and I now make a living as co-founder and chief of staff at a web3 startup. I do some coaching and consulting on organizational alignment & leadership occasionally.
+            <p>In my past life, I was a founder at various times and a CEO at various times, and I now make a living as co-founder and chief of staff at a {" "}
+            <a href="https://code4rena.com">web3 startup</a>. I do some coaching and consulting on organizational alignment & leadership occasionally.
             </p>
             <p>
               I invented a celebratory day called {" "}
