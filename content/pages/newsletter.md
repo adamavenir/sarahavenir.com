@@ -5,7 +5,7 @@ slug: newsletter
 
 By which I mean, it's not *about* anything in particular. It's just a group of friends (or people who *would* be friends if we ever got to meet) who I send updates to whenever I make/try something new, or when I've written the occasional essay.
 
-Welcome, friend!
+That includes you, if you like! Welcome, friend.
 
 <form
 action="https://buttondown.email/api/emails/embed-subscribe/sarahavenir"
