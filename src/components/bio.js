@@ -64,7 +64,7 @@ const Bio = () => {
             </p>
             <p>
               I have a <Link to="/newsletter">mailing list</Link>, where I share the occasional update about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
-              <a href="http://roam.sarahavenir.com">Roam</a>. I am playing around with migrating to{" "}
+              <a href="http://roam.sarahavenir.com">Roam</a>. I am playing around with{" "}
               <a href="https://tw.town/@sarahavenir">Mastodon</a>, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
             </p>
