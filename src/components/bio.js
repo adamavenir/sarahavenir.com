@@ -84,7 +84,7 @@ const Bio = () => {
                 </span>{" "}
                 Writing
               </Link>
-              <a href="http://roam.sarahavenir.com">
+              <a href="https://roamresearch.com/#/app/sarahavenir-public/page/HUmka1p1h">
                 <span role="img" aria-label="books">
                   📚
                 </span>{" "}
