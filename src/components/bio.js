@@ -76,7 +76,7 @@ const Bio = () => {
               <a href="https://gatherthepeople.com">Gather the People</a>,
               originally released in 2015 and updated in 2020. It was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
             </p>
-            <p><em>Last updated: November 12, 2022</em></p>
+            <p><em>Last updated: February 9, 2023</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
