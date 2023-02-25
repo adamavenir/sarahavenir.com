@@ -17,3 +17,10 @@ But what bothers me most is not what I *have* published, but what I haven't. It 
 I'm starting to think that by not publishing these things, I could be stopping up the stream that my short story is flowing out of. Because doesn't it all come from the same place? The fiction, the non-fiction—it's all part of me. It's kind of like when [Brené Brown talks about numbing](https://onbeing.org/blog/brene-brown-on-leaning-into-our-vulnerability-video/)—how you can't numb only the bad feelings without numbing the good feelings as well. Maybe that's true about writing. Maybe I can't keep out the teaching part of me and not also keep out the dreaming part.
 
 I'm going to experiment with that. Or at least open up space in my mental map for allowing myself to experiment with that. Maybe it's true, or maybe it's a clever delay tactic my brain came up with to make my short story writing even slower. I see you, brain.
+
+---
+
+*In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
+[This Newsletter is for Friends](https://buttondown.email/sarahavenir/archive/fiction-vs-non-fiction/)
+[Mastodon](https://tw.town/@sarahavenir/109927327904099271)
+[Twitter](https://twitter.com/sarahavenir/status/1629583661044736000)
