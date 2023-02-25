@@ -22,6 +22,6 @@ I'm going to experiment with that. Or at least open up space in my mental map fo
 
 *In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
 
-[This Newsletter is for Friends](https://buttondown.email/sarahavenir/archive/fiction-vs-non-fiction/)<br />
-[Mastodon](https://tw.town/@sarahavenir/109927327904099271)<br />
-[Twitter](https://twitter.com/sarahavenir/status/1629583661044736000)<br />
+* [This Newsletter is for Friends](https://buttondown.email/sarahavenir/archive/fiction-vs-non-fiction/)
+* [Mastodon](https://tw.town/@sarahavenir/109927327904099271)
+* [Twitter](https://twitter.com/sarahavenir/status/1629583661044736000)
