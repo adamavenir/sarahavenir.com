@@ -66,7 +66,7 @@ const Bio = () => {
               I have a <Link to="/writing">blog</Link> and a <Link to="/newsletter">mailing list</Link>, where I share the occasional essay or update about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
               <a href="https://roamresearch.com/#/app/sarahavenir-public/page/HUmka1p1h">Roam</a>. I am playing around with{" "}
               <a href="https://tw.town/@sarahavenir">Mastodon</a>, I'm sort of still on {" "}
-              <a href="https:twitter.com/sarahavenir">Twitter</a>, or you can{" "}
+              <a href="https://twitter.com/sarahavenir">Twitter</a>, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
             </p>
             <p>In my work life, I've been a founder at various times and a CEO at various times, and I'm now co-founder and chief of staff at a {" "}
