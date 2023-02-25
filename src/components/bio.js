@@ -75,7 +75,7 @@ const Bio = () => {
             <p>
               If you like reading about thoughtful business topics, you can read my first book,{" "}
               <a href="https://gatherthepeople.com">Gather the People</a>,
-              originally released in 2015 and updated in 2020. It feels dated to me now (don't we all hate everything significant we've ever done, or is that just me?), but it was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
+              originally released in 2015 and updated in 2020. It feels dated to me now (don't we all hate everything we've ever done, or is that just me?), but it was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
             </p>
             <p><em>Last updated: February 25, 2023</em></p>
             <nav>
