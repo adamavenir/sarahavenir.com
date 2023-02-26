@@ -3,10 +3,6 @@ title: Only pointless things, please
 date: 2022-02-22T01:40:04.026Z
 ---
 
-*This is an email I sent to my mailing list on February 17th. [You can subscribe](https://sarahavenir.com/newsletter) for updates on things I'm making/trying, plus the occasional essay.*
-
---
-
 > *Well then: it’s a pointless task, and that’s exactly why I need to do it. I’m sick of going after things that have points; for too long now I’ve been cut off from my own spirituality, hemmed in by the demands of this world, and only pointless things, only indifferent things, can give me the freedom I need in order to get back in touch with what I honestly believe is the essence of life, its ultimate meaning, its first and last reason for being.*
 >
 > —The Luminous Novel by Mario Devrero
