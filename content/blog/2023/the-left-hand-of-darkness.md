@@ -73,7 +73,7 @@ You have been that truth for me, as this new year begins. Thank you for sharing 
 
 —Sarah Avenir
 
-*Note to reader: If you’re intrigued by this love letter, consider this a personal introduction to *The Left Hand of Darkness* by Ursula K. Le Guin. There is so much more I could have said about it, but your time would be better spent reading it!*
+Note to reader: If you’re intrigued by this love letter, consider this a personal introduction to *The Left Hand of Darkness* by Ursula K. Le Guin. There is so much more I could have said about it, but your time would be better spent reading it!
 
 *In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
 
