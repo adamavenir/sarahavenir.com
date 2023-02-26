@@ -1,7 +1,6 @@
 ---
 title: Weird is practical
 date: 2020-12-08T02:43:59.817Z
-description: Focusing your business on weirdos can seem like a risk, but is it?
 image: screen-shot-2021-01-18-at-6.46.01-pm.png
 ---
 ![A suitcase full of weird things, like a keytar, an "I love spreadsheets" hat, a high heeled shoe, and more.](screen-shot-2021-01-18-at-6.46.01-pm.png)
