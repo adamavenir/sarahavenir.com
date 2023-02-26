@@ -1,6 +1,6 @@
 ---
-title: To&#58; Daybook
-date: 2023-02-12T01:40:04.026Z
+	title: To: Daybook
+	date: 2023-02-12T01:40:04.026Z
 ---
 
 ## c/o Anne Truitt
