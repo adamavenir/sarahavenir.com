@@ -1,5 +1,5 @@
 ---
-title: To&colon; The Left Hand of Darkness
+title: Dear The Left Hand of Darkness
 date: 2023-01-08T01:40:04.026Z
 ---
 

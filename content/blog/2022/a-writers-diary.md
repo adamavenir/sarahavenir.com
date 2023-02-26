@@ -1,5 +1,5 @@
 ---
-title: To&colon; A Writer's Diary
+title: Dear A Writer's Diary
 date: 2022-09-29T01:40:04.026Z
 ---
 
