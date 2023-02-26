@@ -1,5 +1,5 @@
 ---
-title: 'To: A Writer's Diary'
+title: "To: A Writer's Diary"
 date: 2022-09-29T01:40:04.026Z
 ---
 
