@@ -1,5 +1,5 @@
 ---
-title: To: A Year In Provence
+title: To&colon; A Year In Provence
 date: 2022-07-20T01:40:04.026Z
 ---
 
