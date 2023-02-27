@@ -1,5 +1,5 @@
 ---
-title: 'To: The Hunchback of Notre Dame'
+title: 'Love note to: The Hunchback of Notre Dame'
 date: 2022-10-06T01:40:04.026Z
 ---
 
