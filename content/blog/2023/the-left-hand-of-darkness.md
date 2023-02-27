@@ -79,4 +79,3 @@ Note to reader: If you’re intrigued by this love letter, consider this a perso
 
 * [Love Note to a Book](https://lovenotetoabook.substack.com/p/the-left-hand-of-darkness)
 * [Mastodon](https://tw.town/@sarahavenir/109668096326011186)
-* [Twitter]()
