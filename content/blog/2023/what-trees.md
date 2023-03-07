@@ -3,6 +3,8 @@ title: What trees?
 date: 2023-03-07T12:25:04.026Z
 ---
 
+## Or: Why I don't do things anymore
+
 I don't know if it's getting older or the experience of running businesses and having to make all of these meta-decisions all the time, but somehow I've become a "forest" person. You know how people criticize other people for not being able to see the forest for the trees? I'm the opposite of that.
 
 I have become suspicious of trees. Whenever someone says "Oh hey, this tree is a problem," my instinct is "Hold on. Zoom out. We can't know that this one tree is a problem until we look at the whole forest. Also we need to talk about the meaning of life."
