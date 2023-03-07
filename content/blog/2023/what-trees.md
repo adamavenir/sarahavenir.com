@@ -55,3 +55,9 @@ I'm not going to go into the details of how to impact the system that perpetuate
 -   **Non-intervention.** While introducing change may require some intervention to begin with, it should require little to none in the end. In any case, a bias toward non-intervention helps curb the ill effects of "naive intervention," a tendency pretty much everyone is susceptible to, where we unintentionally make things worse just by doing a thing—even and especially a thing we have expertise in. (Read *Antifragile* by Nassim Nicholas Taleb for more how this works; it may make you re-think going to the doctor quite so often.)
 
 I'm sure there's more to being a forest person than this cursory overview, but it's a start. In any case, the next time someone asks me to fix their tree problem, I can not only ask them "What do you *really* want?" and get a blank stare as a reward. I can also point them to this post, so they at least know what they're in for.
+
+*In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
+
+* [This Newsletter is for Friends](https://buttondown.email/sarahavenir/archive/what-trees/)
+* [Mastodon](https://tw.town/@sarahavenir/109983993082769122)
+* [Twitter](https://twitter.com/sarahavenir/status/1633210101225127936)
