@@ -69,15 +69,12 @@ const Bio = () => {
               <a href="https://twitter.com/sarahavenir">Twitter</a>, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
             </p>
-            <p>In my work life, I've been a founder at various times and a CEO at various times, and I'm now co-founder and chief of staff at a {" "}
-            <a href="https://code4rena.com">web3 startup</a> (we're not all terrible people here, I promise!). I also do some coaching and consulting on organizational alignment & leadership sometimes.
-            </p>
-            <p>
-              If you like reading about thoughtful business topics, you can read my first book,{" "}
+            <p>In my work life, I've been a founder at various times and a CEO at various times, and I'm now co-founder and chief of staff at a security-focused {" "}
+            <a href="https://code4rena.com">web3 startup</a>. If you like reading about thoughtful business topics, you can read my first book,{" "}
               <a href="https://gatherthepeople.com">Gather the People</a>,
               originally released in 2015 and updated in 2020. It was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
             </p>
-            <p><em>Last updated: February 25, 2023</em></p>
+            <p><em>Last updated: March 7, 2023</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
