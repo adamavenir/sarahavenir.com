@@ -54,7 +54,7 @@ const Bio = () => {
         )}
         {author?.name && (
           <div className="about-me">
-          <p>the place where we once had a picnic<br />is now underwater  <br /></p><p>that one thick branch <br />of the shade tree <br />is now hovering<br />over the rippling surface</p><p>its trunk submerged&mdash;<br />holding its breath<br />for us</p><p>&mdash;Sarah Avenir</p>
+          <p>the place where we once had a picnic<br />is now underwater  <br /></p><p>that one thick branch <br />of the shade tree <br />is now hovering<br />over the rippling surface</p><p>its trunk submerged&mdash;<br />holding its breath<br />for us</p>
             <p><em>Last updated: August 8, 2023</em></p>
             <nav>
               <Link to="/writing">
