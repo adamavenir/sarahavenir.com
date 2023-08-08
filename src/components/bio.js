@@ -55,7 +55,7 @@ const Bio = () => {
         {author?.name && (
           <div className="about-me">
           <p>the place where we once had a picnic<br />
-          is now underwater  <br /><p>
+          is now underwater  <br /></p>
           
           <p>that one thick branch <br />
           of the shade tree <br />
