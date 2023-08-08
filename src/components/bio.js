@@ -54,15 +54,47 @@ const Bio = () => {
         )}
         {author?.name && (
           <div className="about-me">
-           <p>the place where we once had a picnic <br />
-          is now underwater  </p>
-          <p>that one thick branch <br />
-            of the shade tree<br />
-            is now hovering<br /> 
-            over the rippling surface  </p>
-          <p>its trunk submerged—<br/>
-holding its breath<br/> 
-          for us</p>
+           <p>
+              Nice to meet you! I'm a writer, reader, and aspiring hermit. I love books and food and plants and theater and I'm fascinated by the beauty and terror of being alive on this planet.
+            </p>
+            <p>
+              I invented a celebratory day called {" "}
+              <a href="https://itspostday.com">Post Day</a> that happens from time to time. Anyone can celebrate! {" "}
+              <a href="https://lovenotetoabook.substack.com">I also write letters to books I have loved</a>. 
+            </p>
+            <p>
+              I have a <Link to="/writing">blog</Link> and a <Link to="/newsletter">mailing list</Link>, where I share the occasional essay or update about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
+              <a href="https://roamresearch.com/#/app/sarahavenir-public/page/HUmka1p1h">Roam</a>. I am playing around with{" "}
+              <a href="https://tw.town/@sarahavenir">Mastodon</a>, and {" "}
+              <a href="https://www.threads.net/@sarahavenir">Threads</a>, or you can{" "}
+              <a href="mailto:sarahavenir@hey.com">email</a> me.
+            </p>
+            <p>In my work life, I've been a founder at various times and a CEO at various times, and I'm now co-founder and chief of staff at a security-focused {" "}
+            <a href="https://code4rena.com">web3 startup</a>. If you like reading about thoughtful business topics, you can read my first book,{" "}
+              <a href="https://gatherthepeople.com">Gather the People</a>,
+              originally released in 2015 and updated in 2020. It was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
+            </p>
+            <p><em>Last updated: August 8, 2023</em></p>
+            <nav>
+              <Link to="/writing">
+                <span role="img" aria-label="writing">
+                  ✍️
+                </span>{" "}
+                Writing
+              </Link>
+              <a href="https://roamresearch.com/#/app/sarahavenir-public/page/HUmka1p1h">
+                <span role="img" aria-label="books">
+                  📚
+                </span>{" "}
+                Reading
+              </a>
+              <Link to="/newsletter">
+                <span role="img" aria-label="mailbox">
+                  📬
+                </span>{" "}
+                Emailing
+              </Link>
+            </nav>
           </div>
         )}
       </div>
