@@ -65,8 +65,8 @@ const Bio = () => {
             <p>
               I have a <Link to="/writing">blog</Link> and a <Link to="/newsletter">mailing list</Link>, where I share the occasional essay or update about new things I'm making/trying. If you're interested in digital gardening, I share what I'm reading in my public{" "}
               <a href="https://roamresearch.com/#/app/sarahavenir-public/page/HUmka1p1h">Roam</a>. I am playing around with{" "}
-              <a href="https://tw.town/@sarahavenir">Mastodon</a>, I'm sort of still on {" "}
-              <a href="https://twitter.com/sarahavenir">Twitter</a>, or you can{" "}
+              <a href="https://tw.town/@sarahavenir">Mastodon</a>, and {" "}
+              <a href="https://www.threads.net/@sarahavenir">Threads</a>, or you can{" "}
               <a href="mailto:sarahavenir@hey.com">email</a> me.
             </p>
             <p>In my work life, I've been a founder at various times and a CEO at various times, and I'm now co-founder and chief of staff at a security-focused {" "}
@@ -74,7 +74,7 @@ const Bio = () => {
               <a href="https://gatherthepeople.com">Gather the People</a>,
               originally released in 2015 and updated in 2020. It was the book I needed as a bootstrapping business owner with the heart of an artist, and if that's you, I hope it helps.
             </p>
-            <p><em>Last updated: March 7, 2023</em></p>
+            <p><em>Last updated: August 8, 2023</em></p>
             <nav>
               <Link to="/writing">
                 <span role="img" aria-label="writing">
