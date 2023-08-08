@@ -1,6 +1,7 @@
---
+---
 title: From Agency to Consultancy: Why it's hard and what to do about it
---
+slug: agency-to-consultancy
+---
 
 Running an agency over the long haul is a difficult business. It’s relatively easy to get started, even if you have little to no capital. But as you grow, that strength becomes a weakness. As competition increases and technology improves, services become commoditized, driving down the price customers are willing to pay. While this is happening, the cost of hiring and keeping good people rises, making it difficult to scale.
 
