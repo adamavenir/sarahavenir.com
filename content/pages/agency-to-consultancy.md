@@ -1,5 +1,5 @@
 ---
-title: From Agency to Consultancy: Why it's hard and what to do about it
+title: "From Agency to Consultancy: Why it's hard and what to do about it"
 slug: agency-to-consultancy
 ---
 
