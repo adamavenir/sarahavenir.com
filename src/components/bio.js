@@ -58,10 +58,10 @@ const Bio = () => {
             <p><em>Last updated: August 8, 2023</em></p>
             <nav>
               <Link to="/writing">
-                <span role="img" aria-label="blog">
+                <span role="img" aria-label="writing">
                   ✍️
                 </span>{" "}
-                Blog
+                Writing
               </Link>
               <a href="https://roamresearch.com/#/app/sarahavenir-public/page/HUmka1p1h">
                 <span role="img" aria-label="books">
