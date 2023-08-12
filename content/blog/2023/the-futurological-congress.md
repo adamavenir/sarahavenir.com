@@ -67,5 +67,4 @@ P.S. If you’ve not yet read *The Futurological Congress* by Stanisław Lem, I 
 
 * [Love Note to a Book](https://lovenotetoabook.substack.com/p/a-love-note-to-the-futurological)
 * [Mastodon](https://tw.town/@sarahavenir/110232558102049843)
-* [Twitter](https://twitter.com/sarahavenir/status/1624870295445323777)
 * [Instagram](https://www.instagram.com/p/CrRLh6RP8rb/)
