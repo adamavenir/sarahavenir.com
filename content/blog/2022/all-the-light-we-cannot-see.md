@@ -1,7 +1,7 @@
 ---
 title: 'Love note to: All the Light We Cannot See'
 date: 2022-12-28T01:40:04.026Z
-description: "I was so excited to read you. Having read Doerr’s Memory Wall and Four Seasons in Rome, I couldn’t wait to see how his gift for detail would come through in a novel—and one with your scope, at that. (I heard you took him ten years to write!) What interested me the most was his choice to write about a blind girl as one of the main characters. In everything I’ve read of Doerr’s, he relied so much on visual description. How was he going to stretch himself to rely on the other senses?"
+description: "I was so excited to read you. Having read Doerr’s Memory Wall and Four Seasons in Rome, I couldn’t wait to see how his gift for detail would come through in a novel—and one with your scope, at that. (I heard you took him ten years to write!) What interested me the most was his choice to write about a blind girl as one of the main characters. In everything I’ve read of Doerr’s, he relied so much on visual description. How was he going to stretch himself to rely on the other senses?..."
 ---
 
 ## c/o Anthony Doerr
