@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Futurological Congress'
 date: 2023-04-20T01:40:04.026Z
+description: "Have you ever met someone who made you laugh so hard while you were with them, but then when you went home they had you pondering the meaning of life, and whether or not society is barreling toward its own destruction? That’s what it was like getting to know you. On the surface—hilarity. Underneath—did you actually just articulate what is wrong with everything? Let’s start with the jokes."
 ---
 
 ## c/o Stanisław Lem
