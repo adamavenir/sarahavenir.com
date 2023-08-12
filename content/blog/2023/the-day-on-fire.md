@@ -3,7 +3,9 @@ title: 'Love note to: The Day on Fire'
 date: 2023-04-14T01:40:04.026Z
 ---
 
-Dear The Day on Fire,
+## c/o James Ramsay Ullman
+
+Dear *The Day on Fire*,
 
 There is so much I want to say to you, I don’t know where to begin. First, I thank you (and maybe my friends curse you) for introducing me to the joy of thinking like a poet. After we met, immediately everything looked different. For a while now, I’ve wanted to practice detailed observation (probably from reading Anthony Doerr), but I couldn’t quite get the hang of it. But then, you came and showed me exactly how. Not just by writing, but by showing me your way of responding to your observations and playing with words, in little fragments.
 
@@ -60,7 +62,7 @@ Fondly,
 
 Sarah Avenir
 
-P.S. If you’ve not yet read The Day on Fire by James Ramsey Ullman, consider this the formal introduction you’ve been waiting for. Especially if you’re an artist and/or know the experience of inner turmoil (creative or otherwise), I think you’ll get along splendidly together.
+P.S. If you’ve not yet read *The Day on Fire* by James Ramsey Ullman, consider this the formal introduction you’ve been waiting for. Especially if you’re an artist and/or know the experience of inner turmoil (creative or otherwise), I think you’ll get along splendidly together.
 
 *In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
 
