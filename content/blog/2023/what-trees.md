@@ -1,7 +1,7 @@
 ---
 title: What trees?
 date: 2023-03-07T12:25:04.026Z
-description: "I don't know if it's getting older or the experience of running businesses and having to make all of these meta-decisions all the time, but somehow I've become a "forest" person. You know how people criticize other people for not being able to see the forest for the trees? I'm the opposite of that. I have become suspicious of trees..."
+description: "I don't know if it's getting older or the experience of running businesses and having to make all of these meta-decisions all the time, but somehow I've become a 'forest' person. You know how people criticize other people for not being able to see the forest for the trees? I'm the opposite of that. I have become suspicious of trees..."
 ---
 
 ## Or: Why I don't do things anymore
