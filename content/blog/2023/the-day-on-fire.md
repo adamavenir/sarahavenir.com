@@ -8,7 +8,7 @@ description: "There is so much I want to say to you, I don’t know where to beg
 
 Dear *The Day on Fire*,
 
-There is so much I want to say to you, I don’t know where to begin. First, I thank you (and maybe my friends curse you) for introducing me to the joy of thinking like a poet. After we met, immediately everything looked different. For a while now, I’ve wanted to practice detailed observation (probably from reading Anthony Doerr), but I couldn’t quite get the hang of it. But then, you came and showed me exactly how. Not just by writing, but by showing me your way of responding to your observations and playing with words, in little fragments.
+There is so much I want to say to you, I don’t know where to begin. First, I thank you (and maybe my friends curse you) for introducing me to the joy of thinking like a poet. After we met, immediately everything looked different. For a while now, I’ve wanted to practice detailed observation (probably from reading [Anthony Doerr](https://sarahavenir.com/2022/all-the-light-we-cannot-see/)), but I couldn’t quite get the hang of it. But then, you came and showed me exactly how. Not just by writing, but by showing me your way of responding to your observations and playing with words, in little fragments.
 
 > ...where, rhyming in these shadowy fantastic places<br>
 > as if I played a lyre, I'd gently pluck the laces<br>
