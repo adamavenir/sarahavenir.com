@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Price of Salt'
 date: 2022-07-21T01:40:04.026Z
+description: "I ached when I read you. I am aching still, thinking about it. Was it really just a few days ago when we said our goodbyes? You gave me Therese, and I love her. I love that you let me get so close to her, allowing me to see her interior life as clearly as the exterior. Therese’s sensitivity so often mirrored my own, it felt like a bell ringing."
 ---
 
 ## c/o Patricia Highsmith
