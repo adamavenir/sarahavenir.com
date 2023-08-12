@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Blue Flower'
 date: 2022-07-24T01:40:04.026Z
+description: "I cried when we said goodbye. I don’t know why exactly, it’s so hard to explain. Isn’t love always? It wasn’t one thing, it was the combination of everything. Your humor, your beauty, your truth, your wry insights into the distant-but-half-seeing mind that values poetry above all—the sum was so much more than any of these. Maybe I can try to break it down."
 ---
 
 ## c/o Penelope Fitzgerald
