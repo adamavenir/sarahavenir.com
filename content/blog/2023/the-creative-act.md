@@ -1,5 +1,5 @@
 ---
-title: 'A love note to: The Creative Act'
+title: 'Love note to: The Creative Act'
 date: 2023-02-26T20:40:04.026Z
 ---
 
