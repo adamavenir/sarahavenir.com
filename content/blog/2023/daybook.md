@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: Daybook'
 date: 2023-02-12T01:40:04.026Z
+description: "First, an apology. During our time together, I didn’t say much. You shared generously about your life as an artist, daughter, mother, sensitive person. I didn’t share much about my experience at all. I probably seemed reticent to you, or unfeeling. In truth, I was stunned."
 ---
 
 ## c/o Anne Truitt
