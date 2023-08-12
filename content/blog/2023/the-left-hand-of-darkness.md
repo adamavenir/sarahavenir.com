@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Left Hand of Darkness'
 date: 2023-01-08T01:40:04.026Z
+description: "Is it too much to say you changed my life, and are changing it still? I don’t think it is. When Ursula Le Guin introduced us, she said: 'In reading a novel, any novel, we have to know perfectly well that the whole thing is nonsense, and then, while reading, believe every word of it. Finally, when we’re done with it, we may find—if it’s a good novel—that we’re a bit different from what we were before we read it, that we have been changed a little, as if by having met a new face, crossed a street we never crossed before. But it’s very hard to say just what we learned, how we were changed.'..."
 ---
 
 ## c/o Ursula K. Le Guin
