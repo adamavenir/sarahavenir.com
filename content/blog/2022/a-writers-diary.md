@@ -1,7 +1,7 @@
 ---
 title: "Love note to: A Writer's Diary"
 date: 2022-09-29T01:40:04.026Z
-description: "When we first met, it was kismet. Let me explain. I’ve experienced a transformative shift in the way I see myself and my writing in the past year. I’ve become bored and impatient with the forms I’ve been practicing for 20 years—narrative non-fiction, the personal essay, the how-to. Everything and everyone has begun to sound the same in my ear. I’ve been craving fiction (hence, this project). I’ve even started writing it."
+description: "When we first met, it was kismet. Let me explain. I’ve experienced a transformative shift in the way I see myself and my writing in the past year. I’ve become bored and impatient with the forms I’ve been practicing for 20 years—narrative non-fiction, the personal essay, the how-to. Everything and everyone has begun to sound the same in my ear. I’ve been craving fiction (hence, this project). I’ve even started writing it..."
 ---
 
 ## c/o Virginia Woolf
