@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Creative Act'
 date: 2023-02-26T20:40:04.026Z
+description: "The time we spent together has been transformative. What’s it like being an instruction manual for the creative life? I bet every artist you meet never wants you to leave. (When are you coming back to visit, again?) This letter is probably going to be too much about me, but I will risk it because I want you to know the effect you’ve had."
 ---
 
 ## c/o Rick Rubin
