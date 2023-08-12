@@ -1,7 +1,7 @@
 ---
 title: 'Love note to: Meridian'
 date: 2022-07-29T01:40:04.026Z
-description: "Hoo boy, you are captivating. Even though I’d heard you were a heart breaker and I didn’t know if I wanted to have my heart broken while on vacation (or let’s be real, work-cation), I couldn’t help getting to know you, and then being siren-called all the way into the deeps."
+description: "Hoo boy, you are captivating. Even though I’d heard you were a heart breaker and I didn’t know if I wanted to have my heart broken while on vacation (or let’s be real, work-cation), I couldn’t help getting to know you, and then being siren-called all the way into the deeps..."
 ---
 
 ## c/o Alice Walker
