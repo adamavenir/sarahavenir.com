@@ -365,6 +365,10 @@ hr {
   margin-bottom: 15px;
 }
 
+p.updated {
+  font-size:80%;
+}
+
 nav {
   display: block;
 }
