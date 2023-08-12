@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Day on Fire'
 date: 2023-04-14T01:40:04.026Z
+description: "There is so much I want to say to you, I don’t know where to begin. First, I thank you (and maybe my friends curse you) for introducing me to the joy of thinking like a poet. After we met, immediately everything looked different. For a while now, I’ve wanted to practice detailed observation (probably from reading Anthony Doerr), but I couldn’t quite get the hang of it. But then, you came and showed me exactly how. Not just by writing, but by showing me your way of responding to your observations and playing with words, in little fragments."
 ---
 
 ## c/o James Ramsay Ullman
