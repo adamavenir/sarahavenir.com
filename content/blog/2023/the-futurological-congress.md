@@ -42,8 +42,8 @@ Still, as the lawyer in your narrative asserts, evolution is its own corrective.
 > Savoring the fresh, tart taste of the Chianti, I was suddenly seized with a chilling thought: if one could write imaginary poetry and build imaginary homes, then why not eat and drink mirages? The lawyer laughed at my fears.
 > 
 > ‘Objection overruled, Mr. Tichy! No, we are in no danger of that. The figment of success may satisfy the mind, but the figment of a cutlet will never fill the stomach. He who would live thus must quickly starve to death!’”
-> 
-> Somehow, this isn’t exactly a comfort.
+
+Somehow, this isn’t exactly a comfort.
 
 I really did enjoy our time together, even if it includes an underlying concern— where is the great slingshot of time and technology hurtling us? Don’t get me wrong; the social progress is real, and I’m grateful for the ways my children get to live in a world that doesn’t wholly despise them for being themselves. Or at least, I hope that’s the trajectory; every day there’s a new sadness for all the ways it’s still not true. In any case, I would never go back to 1971, or any other time.
 
