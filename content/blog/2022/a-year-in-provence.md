@@ -1,7 +1,7 @@
 ---
 title: 'Love note to: A Year In Provence'
 date: 2022-07-20T01:40:04.026Z
-description: "I know we said our goodbyes last week, but I wanted to tell you how special our time together was to me. I think I laughed more during that one week than I have in a long while. It’s a rough line to walk between witticism and cynicism, especially in memoir, but you do it so well. Your observations somehow escape being merely ironic or self-deprecating (the easiest kind of humor to find, these days), and instead make a larger, more generous point about how different and strange and somehow still lovable we all are."
+description: "I know we said our goodbyes last week, but I wanted to tell you how special our time together was to me. I think I laughed more during that one week than I have in a long while. It’s a rough line to walk between witticism and cynicism, especially in memoir, but you do it so well. Your observations somehow escape being merely ironic or self-deprecating (the easiest kind of humor to find, these days), and instead make a larger, more generous point about how different and strange and somehow still lovable we all are..."
 ---
 
 ## c/o Peter Mayle
