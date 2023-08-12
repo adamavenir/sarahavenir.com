@@ -1,7 +1,7 @@
 ---
 title: 'Love note to: Orlando'
 date: 2022-12-04T01:40:04.026Z
-description: "I’ve been wanting to write you for a while to tell you how much I enjoyed getting to know you. It’s been a bit, true, but only because I was afraid I wouldn’t be able to express it in words. I was a little intimidated by you at first—I thought you’d be so dignified (and you are! but also an incredible wit!). Not to mention you’ve been proclaimed, '…the longest and most charming love letter in literature,' which makes this short and simple one a bit lacking. But I overcame my hesitation. After all, the point isn’t to write you the most charming love letter in literature, but to tell you what it means to me that you exist. I remember you, and will remember you, for a long, long time."
+description: "I’ve been wanting to write you for a while to tell you how much I enjoyed getting to know you. It’s been a bit, true, but only because I was afraid I wouldn’t be able to express it in words. I was a little intimidated by you at first—I thought you’d be so dignified (and you are! but also an incredible wit!). Not to mention you’ve been proclaimed, '…the longest and most charming love letter in literature,' which makes this short and simple one a bit lacking. But I overcame my hesitation. After all, the point isn’t to write you the most charming love letter in literature, but to tell you what it means to me that you exist. I remember you, and will remember you, for a long, long time..."
 ---
 
 ## c/o Virginia Woolf
