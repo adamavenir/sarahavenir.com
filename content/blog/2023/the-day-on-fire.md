@@ -66,5 +66,4 @@ P.S. If you’ve not yet read The Day on Fire by James Ramsey Ullman, consider t
 
 * [Love Note to a Book](https://lovenotetoabook.substack.com/p/a-love-note-to-the-day-on-fire)
 * [Mastodon](https://tw.town/@sarahavenir/110199356929166293)
-* [Twitter](https://twitter.com/sarahavenir/status/1646993542924107776)
 * [Instagram](https://www.instagram.com/p/CrCE4EePyHY/?utm_source=ig_web_copy_link)
