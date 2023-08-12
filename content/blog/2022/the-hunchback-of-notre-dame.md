@@ -1,6 +1,7 @@
 ---
 title: 'Love note to: The Hunchback of Notre Dame'
 date: 2022-10-06T01:40:04.026Z
+description: "Forgive me for using your English name. I know you prefer the original French Notre-Dame de Paris, but I was afraid this wouldn’t get to you if I put that in the address. I was so excited to meet you! I (of course) watched the Disney movie adaptation as a child, and it’s always been one of my favorites. I feel a special kinship with Quasimodo. I know I’m not alone. Maybe we all feel like strangers here, sometimes? Maybe it’s the most common thing to feel as if you’re looking at the world from far away, able to see its beauty and sense its glories, but unable to connect with (most of) its people? I don’t know. But I have a feeling you do."
 ---
 
 ## c/o Victor Hugo
