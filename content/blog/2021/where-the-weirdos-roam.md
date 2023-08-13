@@ -1,7 +1,7 @@
 ---
 title: Where the weirdos roam
 date: 2020-10-02T01:40:04.026Z
-description: "I wrote this piece for &yet's Find Your Weirdos project. The buffalo image is by my teammate Lynn Fisher, inspired by my public Roam project. 'Where the buffalos roam'…get it?"
+description: "I wrote this piece for &yet's Find Your Weirdos project. The buffalo image is by my teammate Lynn Fisher, inspired by my public Roam project. 'Where the buffalos roam'…get it?..."
 image: screen-shot-2021-01-18-at-6.39.04-pm.png
 ---
 ![An illustration of two purple buffalo on a pink background, one with big googly eyes.](screen-shot-2021-01-18-at-6.39.04-pm.png)
