@@ -1,8 +1,12 @@
 ---
 title: Courageous Positioning (and why it’s hard)
 date: 2019-02-19
+description: "I wrote a newsletter for &yet a few weeks ago from Nashville, TN, host of my angsty teen years. We were there to attend a seminar David Baker was hosting on Advanced Positioning and Lead Generation, which ended up triggering a different kind of angst. This is that newsletter..."
 ---
-I wrote a newsletter a few weeks ago from Nashville, TN, host of my angsty teen years. We were there to attend a seminar [David Baker](https://www.davidcbaker.com/) was hosting on Advanced Positioning and Lead Generation, which ended up triggering a different kind of angst.
+
+*I wrote a newsletter for [&yet](https://andyet.com) a few weeks ago from Nashville, TN, host of my angsty teen years. We were there to attend a seminar [David Baker](https://www.davidcbaker.com/) was hosting on Advanced Positioning and Lead Generation, which ended up triggering a different kind of angst.*
+
+*This is that newsletter.*
 
 ## Positioning angst
 
@@ -10,7 +14,7 @@ Positioning angst...anyone else ever experience this? It’s totally a thing. It
 
 The fear is real. Especially when you have a team of incredibly talented people counting on you to make decisions that will result in more and better work and not less.
 
-We’ve done [a lot of projects over the years](https://andyet.com/showcase), ranging from the impressive to the ridiculous. It’s not only a challenge to find a throughline in all of these things, but to commit to a direction that utilizes our team’s vast range of capability, from marketing strategy to UX design to front-end development to software development. We’re a team of veterans with expertise both broad and deep.
+At &yet, we’ve done [a lot of projects over the years](https://andyet.com/showcase), ranging from the impressive to the ridiculous. It’s not only a challenge to find a throughline in all of these things, but to commit to a direction that utilizes our team’s vast range of capability, from marketing strategy to UX design to front-end development to software development. We’re a team of veterans with expertise both broad and deep.
 
 Not only that, but philosophically, we’ve always rebelled against the idea of pigeon-holing ourselves into “just one thing”. We are curious people who incorporate what we learn across disciplines into our work. We believe being a generalist does not mean being a “master of none”. [We do lots of things, and we do them well](https://lynnandtonic.com/thoughts/entries/good-better-best/).
 
