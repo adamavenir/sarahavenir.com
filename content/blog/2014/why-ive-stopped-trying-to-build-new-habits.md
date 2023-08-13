@@ -1,6 +1,7 @@
 ---
 title: "Why I’ve stopped trying to build good habits"
 date: "2014-11-19"
+description: "I love to work on the areas of my life that are not quite what I know they could be. If I had to pick a hobby, personal growth would be it. A few things I’m currently working on..."
 ---
 
 I love to work on the areas of my life that are not quite what I know they could be. If I had to pick a hobby, personal growth would be it. A few things I’m currently working on:
