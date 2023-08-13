@@ -1,7 +1,9 @@
 ---
 title: We are Sarah and Adam  Avenir now <3
 date: 2019-04-04
+description: "Dear friends, family, and folks we know from the Internet who have squirreled their way into our hearts, we have a new name! We were going to wait until the wedding celebration we’d planned for later this spring, but after much conversation, we’ve decided to change our names now and hold off on a ceremony indefinitely..."
 ---
+
 Dear friends, family, and folks we know from the Internet who have squirreled their way into our hearts,
 
 We have a new name!
