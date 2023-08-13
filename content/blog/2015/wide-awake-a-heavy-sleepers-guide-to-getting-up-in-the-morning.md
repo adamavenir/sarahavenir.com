@@ -25,7 +25,7 @@ I hate telling that story. It’s hard to remember myself as the girl who hid un
 Today is the 17th day I’ve woken up at 7am (which is early for me). Here’s how I’m doing it.
 
 ## One. I realized getting up wasn’t really the issue.
-More than a month ago, I told my friend Brooke how waking up was a constant struggle for me. (We [recorded our conversation in a podcast](http://everybranch.is/blogging/view/episode-15-breaking-through-the-comfort-zone).) I didn’t think much of it after that.
+More than a month ago, I told my friend Brooke how waking up was a constant struggle for me. (We [recorded our conversation in a podcast](http://web.archive.org/web/20150815005325/http://everybranch.is/breaking-through-the-comfort-zone-episode-15/).) I didn’t think much of it after that.
 
 A few weeks later, I had a talk with my dad about it, and he mentioned it sounded like I might be depressed. Since I wasn’t crying every day or planning to die, that label hadn’t occurred to me. It got me thinking.
 
