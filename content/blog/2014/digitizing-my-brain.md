@@ -10,7 +10,7 @@ One of the areas I re-visited this year was my approach to collecting tasks, ide
 
 Several people have asked how I manage to work at [&yet](https://web.archive.org/web/20150206090846/http://andyet.com/), homeschool my 3 kids, and work on other projects (I’ll be sharing a new one very soon that I’ve been working on with a friend for the past year). This is a big part of it. The tool doesn’t really matter, as long as you enjoy using it and it’s simple to maintain.
 
-## Getting Things Done: The 7 basic steps
+# Getting Things Done: The 7 basic steps
 
 If you’re not familiar with David Allen’s Getting Things Done system (GTD for short), it’s an approach to managing all the tasks and projects that come up in your life. It’s rigorous to get started and requires 10 to 15 minutes of daily maintenance, but the relief and freedom from feeling like you _should_ be doing other things is worth it. (And, as the title suggests, you also get a lot of things done, without the mental and emotional angst that often comes with creative projects.)
 
@@ -18,25 +18,25 @@ Even if you know the ins-and-outs of GTD, it’s worth it to start fresh as you 
 
 To get started:
 
-### Choose an inbox
+## Choose an inbox
 
 I’ve chosen OmniFocus, but as I mentioned, I have also successfully used a physical notebook (using the [Bullet Journal approach](https://web.archive.org/web/20150206090846/http://www.bulletjournal.com/)) and the [Things app](https://web.archive.org/web/20150206090846/https://culturedcode.com/things/).
 
-### Inside your inbox, make a list of every task or project that you’ve committed to or that you need or want to do
+## Inside your inbox, make a list of every task or project that you’ve committed to or that you need or want to do
 
 This could be anything, from planning a vacation to conducting a product launch to taking out the trash. Doesn’t matter if it’s business or personal, important or unimportant, urgent or not. Just be sure to get it _all_ out. Even after you do this, you’ll probably still spend the next day or two adding new tasks that you forgot about.
 
-### From that list, make a list of projects
+## From that list, make a list of projects
 
 A project is anything that has more than one task associated with it. (“Clean the kitchen” would be a project, since it involves lots of different tasks.)
 
 In OmniFocus, you can simply drag any item from your inbox into the Projects section to turn it into a project. This makes it really easy to see what’s left.
 
-### Assign every remaining item in your inbox to a project until your inbox is empty
+## Assign every remaining item in your inbox to a project until your inbox is empty
 
 Some tasks may not have a “project”, but I put them in a project anyway (like “Maintenance”) to get them out of my inbox.
 
-### For each project, write down the very next step(s) that need to be done to make progress on that project
+## For each project, write down the very next step(s) that need to be done to make progress on that project
 
 Next steps are literally the very next specific step you need to take. So if you need to call the vet, but you don’t have the vet’s phone number, your next step would be “Google vet’s phone number”. If you need to decide on a book title, your next step might be “Make a list of possible book titles”.
 
@@ -44,21 +44,21 @@ Ideally, every next step for each project would be this specific and actionable.
 
 By the way, you don’t need to add all the steps for every project. (For complex projects, you may not even know what all of them are yet.) Start with the very next step or two; you can add more steps when you need to.
 
-### Get into the habit of adding new tasks and projects to your inbox throughout the day
+## Get into the habit of adding new tasks and projects to your inbox throughout the day
 
 Don’t be perfect with this — just put a note in your inbox every time you commit to something or have an idea to do something. You’ll take care of it when you process your inbox that day.
 
-### Decide on a time for processing your inbox daily
+## Decide on a time for processing your inbox daily
 
 Processing your inbox involves simply repeating these steps every day (though it will be much faster because nearly everything is already in your inbox; it takes me 10-15 minutes). This is the last thing I do before I quit work for the day, which not only gives me a nice stopping point, but also gives me a smooth start to the next day.
 
-## Using GTD to manage energy instead of time
+# Using GTD to manage energy instead of time
 
 Getting Things Done isn’t a time management system; you can use it with any approach. I used to use it with [my 90-minute workday](https://web.archive.org/web/20150206090846/http://www.sarahjbray.com/blog/my-90-minute-workday) when I was self-employed. 
 
 The approach I use now is a hodge-podge of many things I’ve learned, including concepts in Jim Loehr’s book [The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal](https://web.archive.org/web/20150206090846/http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755). One of Loehr’s premises is that after 90 minutes of focused work, we need to take a break for rest and renewal before starting a focused task again. There are two ways I use GTD to help me with this.
 
-### Giving my next steps energy-related contexts
+## Giving my next steps energy-related contexts
 
 One basic step I didn’t mention is applying contexts to each of your next steps. (A context is a tag or label you can use to group tasks together.) David Allen recommended a “home” context for any steps that needed to be done at home. “Office” for any that needed to be done at work. “Phone” for any phone calls. “Computer” for computer-based work. “Errand” for anything you needed to do while you were out. Etc.
 
@@ -72,7 +72,7 @@ I also have a few other contexts that are not energy-related, such as “Out and
 
 (Note: if you decide to add contexts to your workflow, you’ll need to add that to your maintenance list each day. Having the “waiting” context makes this easier for me. Instead of needing to go through every action in every project every day, I just process my inbox and then look at all of the things in the “waiting” context to see if there are tasks that I am no longer waiting on and can apply a new context to. Once a week, I go through every single project and next step, but there’s no reason to do that on a daily basis.)
 
-### Filling up my “rest and renewal” context
+## Filling up my “rest and renewal” context
 
 This is a simple step, but it has been so effective for me in managing my energy. I simply make a list of tasks that make me feel re-energized. A few of my favorite things currently on this list:
 
@@ -100,7 +100,7 @@ This is a simple step, but it has been so effective for me in managing my energy
 
 I try to be as specific as possible, making them just as actionable as my regular tasks (otherwise, there are some things on here that my eyes will skip over because they’re too vague — like “make garland to hang in the living room”).
 
-## Using GTD as a learner and writer
+# Using GTD as a learner and writer
 
 I love to learn new things and am constantly reading books and listening to talks. I’m also a writer, which means that new insights end up as writing material. But I often get to a point where I don’t want to read anything or watch anything, because I’ve learned so much that I haven’t implemented. What is the point of learning something new if it’s just going to fall right out of my brain in the next couple of days? 
 
@@ -108,7 +108,7 @@ Long, long ago in a galaxy not so unlike this one, Behance used to make a tool c
 
 [Evernote](https://web.archive.org/web/20150206090846/https://evernote.com/) is excellent for capturing information, but there is no bias toward action. You can capture and organize things all day long, but you’ll need to take an extra step if you want to put anything on your to-do list. Which is fine, except most of the time you’ll skip that step and the new insight you gleaned will pass you by just like all the rest. There are two ways I use GTD to fix this problem.
 
-### Creating an “idea garden” project
+## Creating an “idea garden” project
 
 Any time I have an idea or read a quote I like or read about a concept that resonates with me or hear something interesting or inspiring, I put it in my inbox, just like I do tasks and projects. Most of the time, I’ll also jot down a note about what it meant for me personally. Those notes are often even more valuable than the ideas themselves, because they help me remember what I was thinking about at the time, and why it seemed relevant.
 
@@ -116,7 +116,7 @@ Later when I’m processing my inbox, I’ll either turn that idea into a task (
 
 Not only does this give me a quick and comprehensive place to turn to when I’m trying to remember insights that I had, it also helps me assimilate new knowledge, because I’ve written down the information in my own words.
 
-### Creating a “reminders” context
+## Creating a “reminders” context
 
 I believe one of the most important projects of our lifetimes is to become the best version of ourselves. If we were all committed to a lifetime of becoming the best version of us, I imagine most of the societal problems we face would disappear. It’s also completely in our power.
 
@@ -144,7 +144,7 @@ Each of these reminders has a story and purpose behind it, which I remember simp
 > 
 > …This is what you hide from — the noise in your head that says you are not good enough, that says it is not perfect, that says it could have been better.”
 
-## The 3 most important things to remember
+# The 3 most important things to remember
 
 My systems are always growing and changing with time, but here are three things I’ve learned over the years that make Getting Things Done work for me:
 
