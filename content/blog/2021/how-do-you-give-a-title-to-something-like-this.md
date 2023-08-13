@@ -2,6 +2,7 @@
 title: How do you give a title to something like this
 slug: how-do-you-give-a-title-to-something-like-this
 date: 2021-04-21T21:36:43.783Z
+description: "My brother died two weeks ago. I keep looking at that sentence, thinking, 'That’s a shocking thing to say; it feels sensationalist. Do I want to be sensationalist?' But it’s just true. He didn’t die of what I thought he would die of—he had Type 1 diabetes that was hard to keep under control. Throughout my life I’ve often imagined his funeral to prepare myself, just in case..."
 ---
 My brother died two weeks ago. I keep looking at that sentence, thinking, “That’s a shocking thing to say; it feels sensationalist. Do I want to be sensationalist?” But it’s just true.
 
