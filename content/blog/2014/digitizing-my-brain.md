@@ -18,30 +18,29 @@ Even if you know the ins-and-outs of GTD, it’s worth it to start fresh as you 
 
 To get started:
 
-- **Choose an inbox**
+### Choose an inbox
     
 
 I’ve chosen OmniFocus, but as I mentioned, I have also successfully used a physical notebook (using the [Bullet Journal approach](https://web.archive.org/web/20150206090846/http://www.bulletjournal.com/)) and the [Things app](https://web.archive.org/web/20150206090846/https://culturedcode.com/things/).
 
-- **Inside your inbox, make a list of every task or project that you’ve committed to or that you need or want to do**
+### Inside your inbox, make a list of every task or project that you’ve committed to or that you need or want to do
     
 
 This could be anything, from planning a vacation to conducting a product launch to taking out the trash. Doesn’t matter if it’s business or personal, important or unimportant, urgent or not. Just be sure to get it _all_ out. Even after you do this, you’ll probably still spend the next day or two adding new tasks that you forgot about.
 
-- **From that list, make a list of projects**
+### From that list, make a list of projects
     
 
 A project is anything that has more than one task associated with it. (“Clean the kitchen” would be a project, since it involves lots of different tasks.)
 
 In OmniFocus, you can simply drag any item from your inbox into the Projects section to turn it into a project. This makes it really easy to see what’s left.
 
-- **Assign every remaining item in your inbox to a project until your inbox is empty**
+### Assign every remaining item in your inbox to a project until your inbox is empty
     
 
 Some tasks may not have a “project”, but I put them in a project anyway (like “Maintenance”) to get them out of my inbox.
 
-- **For each project, write down the very next step(s) that need to be done to make progress on that project**
-    
+### For each project, write down the very next step(s) that need to be done to make progress on that project
 
 Next steps are literally the very next specific step you need to take. So if you need to call the vet, but you don’t have the vet’s phone number, your next step would be “Google vet’s phone number”. If you need to decide on a book title, your next step might be “Make a list of possible book titles”.
 
@@ -49,13 +48,11 @@ Ideally, every next step for each project would be this specific and actionable.
 
 By the way, you don’t need to add all the steps for every project. (For complex projects, you may not even know what all of them are yet.) Start with the very next step or two; you can add more steps when you need to.
 
-- **Get into the habit of adding new tasks and projects to your inbox throughout the day**
-    
+### Get into the habit of adding new tasks and projects to your inbox throughout the day
 
 Don’t be perfect with this — just put a note in your inbox every time you commit to something or have an idea to do something. You’ll take care of it when you process your inbox that day.
 
-- **Decide on a time for processing your inbox daily**
-    
+### Decide on a time for processing your inbox daily
 
 Processing your inbox involves simply repeating these steps every day (though it will be much faster because nearly everything is already in your inbox; it takes me 10-15 minutes). This is the last thing I do before I quit work for the day, which not only gives me a nice stopping point, but also gives me a smooth start to the next day.
 
@@ -103,8 +100,7 @@ This is a simple step, but it has been so effective for me in managing my energy
     
 - Watch [SimplicityBliss OmniFocus videos](https://web.archive.org/web/20150206090846/http://simplicitybliss.com/omnifocus)
     
-- Lay out pieces to make garland to hang in the living room
-    
+- Lay out pieces to make garland to hang in the living room 
 
 I try to be as specific as possible, making them just as actionable as my regular tasks (otherwise, there are some things on here that my eyes will skip over because they’re too vague — like “make garland to hang in the living room”).
 
@@ -145,7 +141,6 @@ To remind me of the things I need to do (or stop doing) to become that person, I
 - Take an actual lunch break, and walk the dog while I’m at it
     
 - Don’t sabotage myself. Don’t be afraid of being a person who knows what she’s doing.
-    
 
 Each of these reminders has a story and purpose behind it, which I remember simply by glancing at these words. I also have my notes for another reminder about why I’m doing it. For example, on the “Don’t sabotage myself” reminder, I’ve written this quote from [Seth Godin](https://web.archive.org/web/20150206090846/http://sethgodin.typepad.com/):
 
@@ -162,7 +157,6 @@ My systems are always growing and changing with time, but here are three things 
 2. **Give every step a useful context.** If you don’t, you will waste too much time and energy choosing between tasks to make it worth it. You also won’t get the benefit of separating your mental and emotional angst from your projects by being able to look at each step as a stand-alone task.
     
 3. **Spend 10-15 minutes a day processing your inbox.** If you don’t, your system will become outdated, and you’ll stop using it and will avoid starting again.
-    
 
 The great thing about GTD is it can be used with any approach to your day — whether you schedule time for everything on a calendar or use the [don’t break the chain method](https://web.archive.org/web/20150206090846/http://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/) or [Pomodoro](https://web.archive.org/web/20150206090846/http://pomodorotechnique.com/) or [a sticky note](https://web.archive.org/web/20150206090846/http://99u.com/articles/6945/if-it-wont-fit-on-a-post-it-it-wont-fit-in-your-day) or a daily planner for prioritizing. Because it’s got such a cult following, there are tons of articles and hacks on how to customize it for your own use, but I’d recommend just getting started and making up your own tweaks as you go.
 
