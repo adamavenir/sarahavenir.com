@@ -1,6 +1,7 @@
 ---
 title: "Digitizing my brain: How I manage my energy, my creativity, and my time"
 date: "2014-12-31"
+description: "It’s almost New Years! And even though I say I won’t make a big deal out of New Years and its promise to make me into a brighter, shinier version of myself, I always do. Because let’s be honest, planning for the future is the most fun in the world..."
 ---
 
 It’s almost New Years! And even though I _say_ I won’t make a big deal out of New Years and its promise to make me into a brighter, shinier version of myself, I always do. Because let’s be honest, planning for the future is _the most fun in the world_.
