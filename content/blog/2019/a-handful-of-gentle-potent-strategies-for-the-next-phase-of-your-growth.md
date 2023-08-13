@@ -1,6 +1,7 @@
 ---
 title: "A handful of gentle, potent strategies for the next phase of your growth"
 date: "2019-01-16"
+description: "For the past year and a half, my counselor has been working with me through some hard personal stuff. I’ve experienced tremendous growth during that time, both personally and in my role as a business strategist, but I’ve been publicly very quiet as pieces of my life have gone through various stages of brokenness and healing. In case you find yourself in a place of maybe-possibly-pretty-soon-ready for growth in any area, I’d like to share a few thoughts that are helping me..."
 ---
 
 For the past year and a half, my counselor has been working with me through some hard personal stuff. I’ve experienced tremendous growth during that time, both personally and in my role as a business strategist, but I’ve been publicly very quiet as pieces of my life have gone through various stages of brokenness and healing.
