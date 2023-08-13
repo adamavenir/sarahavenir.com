@@ -1,6 +1,7 @@
 ---
 title: A collaborative process for defining the purpose of any project
 date: 2019-01-18
+description: "This fall, my partner and I bought Tumbleweird, a local free alternative paper started a few years ago by some great people who wanted to see a counter-cultural publication in our area along the lines of The Stranger in Seattle and The Portland Mercury..."
 ---
 This fall, my partner and I bought [Tumbleweird](http://tumbleweird.org/), a local free alternative paper started a few years ago by some great people who wanted to see a counter-cultural publication in our area along the lines of The Stranger in Seattle and The Portland Mercury.
 
