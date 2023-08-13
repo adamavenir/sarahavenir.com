@@ -276,8 +276,6 @@ a:focus {
   margin-bottom: var(--spacing-0);
 }
 
-
-
 .main-heading {
   font-size: var(--fontSize-7);
   margin: 0;
@@ -349,8 +347,8 @@ hr {
   font-family: var(--font-heading);
 }
 
-.blog-post ul {
-  margin-left: 15px;
+.blog-post ol, ul {
+  margin-left: 30px;
 }
 
 .blog-post-nav ul {
