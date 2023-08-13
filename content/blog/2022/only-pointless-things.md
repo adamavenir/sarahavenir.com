@@ -1,7 +1,7 @@
 ---
 title: Only pointless things, please
 date: 2022-02-22T01:40:04.026Z
-description: "Well then: it’s a pointless task, and that’s exactly why I need to do it. I’m sick of going after things that have points; for too long now I’ve been cut off from my own spirituality, hemmed in by the demands of this world, and only pointless things, only indifferent things, can give me the freedom I need in order to get back in touch with what I honestly believe is the essence of life, its ultimate meaning, its first and last reason for being."
+description: "Well then: it’s a pointless task, and that’s exactly why I need to do it. I’m sick of going after things that have points; for too long now I’ve been cut off from my own spirituality, hemmed in by the demands of this world, and only pointless things, only indifferent things, can give me the freedom I need in order to get back in touch with what I honestly believe is the essence of life, its ultimate meaning, its first and last reason for being..."
 ---
 
 > *Well then: it’s a pointless task, and that’s exactly why I need to do it. I’m sick of going after things that have points; for too long now I’ve been cut off from my own spirituality, hemmed in by the demands of this world, and only pointless things, only indifferent things, can give me the freedom I need in order to get back in touch with what I honestly believe is the essence of life, its ultimate meaning, its first and last reason for being.*
