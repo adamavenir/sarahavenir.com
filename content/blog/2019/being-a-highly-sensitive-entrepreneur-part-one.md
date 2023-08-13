@@ -1,6 +1,7 @@
 ---
 title: "Being a Highly Sensitive Entrepreneur (Part one)"
 date: "2019-01-25"
+description: "You know how you hear about a book so many times that you feel like you’ve read it, but you actually haven’t? That’s the case for me with The Highly Sensitive Person by Elaine Aron. I finally finished it, and while I’d somehow picked up most of what was in it already, it’s gotten me thinking about the different ways I handle being both an entrepreneur and highly sensitive..."
 ---
 
 You know how you hear about a book so many times that you feel like you’ve read it, but you actually haven’t? That’s the case for me with [The Highly Sensitive Person](https://www.amazon.com/Highly-Sensitive-Person-Thrive-Overwhelms/dp/0553062182/ref=nodl_) by Elaine Aron. I finally finished it, and while I’d somehow picked up most of what was in it already, it’s gotten me thinking about the different ways I handle being both an entrepreneur and highly sensitive.
