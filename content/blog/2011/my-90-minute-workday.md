@@ -13,7 +13,7 @@ It’s like the motivation part of my brain became a rebellious teenager. This w
 
 Instead of completely shutting down (which I’ve tried before…it doesn’t help), I embarked on a workflow soul-searching mission. I put aside my culturally engrained definitions of productivity and responsibility in an attempt to find true freedom in my work life. And this is what I’ve come up with.
 
-## Type Z
+# Type Z
 
 All my life, I’ve identified with the Type A personality. I’m a doer. I feel good when I get things done. It’s exhilarating. I don’t understand people like my husband who can sit and watch TV for hours. An hour a week is pretty much my limit, and it better be Tivoed, because I have no patience for commercials. (Wow, I must be a total thrill ride to be around.)
 
@@ -27,7 +27,7 @@ So then it occurred to me. Maybe I’m not a Type A after all. And I’m definit
 
 But I needed something to replace the whip. So I did what any self-respecting former Type A would do. I made a list.
 
-### I AM HAPPIEST IN MY WORK WHEN…
+## I am happiest in my work when…
 
 * I have loads of freedom to do whatever I want to do.
     
@@ -56,7 +56,7 @@ But I needed something to replace the whip. So I did what any self-respecting fo
 
 For kicks, I took a look at how my current Attila the Hun style of self-management was attempting to get me to that place of work bliss.
 
-### ATTILA LIKES ME TO…
+## Attila likes me to…
 
 * Schedule meetings within a day or two of when people want to have them, with a maximum of 3 meetings a day. (I was spending like 2-3 hours a day in meetings. And I’m an introvert!)
     
@@ -72,10 +72,9 @@ For kicks, I took a look at how my current Attila the Hun style of self-manageme
     
 * Work 8 hours a day. At least. Because if I’m not, then Attila’s pet guilt monster is going to chew me up and spit me out.
     
-* It was suddenly very clear why the motivation section of my brain was rebelling. I sucked as my own boss. I needed to fire Attila.
-    
+* It was suddenly very clear why the motivation section of my brain was rebelling. I sucked as my own boss. I needed to fire Attila.  
 
-## Enter Glenda the Good Fairy
+# Enter Glenda the Good Fairy
 
 Glenda is my new boss. She’s a lot prettier, which you think wouldn’t matter. But remember when you were a kid and you got the ugly Attila the Hun teacher? It matters. A lot.
 
@@ -123,7 +122,7 @@ Social media is another thing that comes naturally when I’m “done” so quic
 
 I have admittedly completely changed my business model in order to accommodate doing fewer projects more deeply; and that was one of the hardest things I’ve ever done. I imagine that if you have more projects with tighter deadlines, then you may need to make room for more time every day for “work”. But if you’re interested in trying this out, don’t automatically assume that that’s the case. Just try it and adjust as necessary. (You may not even need that extra half hour to work on your personal, non-deadline-driven projects…it’s really only necessary if you’re avoiding the work).
 
-## All hail, the Type Z! (Z’s?)
+# All hail, the Type Z! (Z’s?)
 
 Now, this may not work for anyone else in the world. Like I said, it is very possible that I am the only Type Z on the entire planet. I think the reason it works for me is that I really do love my work, and I have a lot of control over when and how it happens. But that control didn’t just happen. I created it. And it was hard. But I did it. So can anyone.
 
