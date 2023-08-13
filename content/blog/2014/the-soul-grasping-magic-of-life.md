@@ -1,6 +1,7 @@
 ---
 title: "The soul-grasping magic of life"
 date: "2014-04-11"
+description: "When I was a kid, I loved playing role-playing games. (Still do.) I love that you can be whoever you want to be…that you can explore the world around you and open any door. Even your nosy neighbor with the weird striped lawn wouldn’t bat her wrinkly eye if you walked right in and started jumping on the bed or smashing the flowerpots looking for gold coins..."
 ---
 
 When I was a kid, I loved playing role-playing games. (Still do.) I love that you can be whoever you want to be...that you can explore the world around you and open any door. Even your nosy neighbor with the weird striped lawn wouldn't bat her wrinkly eye if you walked right in and started jumping on the bed or smashing the flowerpots looking for gold coins. 
