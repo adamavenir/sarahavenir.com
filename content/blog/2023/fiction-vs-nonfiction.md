@@ -1,6 +1,7 @@
 ---
 title: Fiction vs. non-fiction
 date: 2023-02-25T12:25:04.026Z
+description: "Recently, one of my Internet follows wrote about how Sylvia Plath really wanted to be a prose writer but kept writing poetry despite herself. I don’t want to see more relevance in this than it actually has (I have a tendency to relate everything I read to what’s happening in my own life), but I can’t stop thinking about it..."
 ---
 ## WHO WILL WIN THE EPIC BATTLE OF OUR TIMES?
 
