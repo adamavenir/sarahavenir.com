@@ -2,8 +2,7 @@
 title: How to build a fractal, nourishing system of practice, in business & in life
 slug: how-to-build-a-fractal-system-of-practice
 date: 2021-04-01T01:03:10.832Z
-description: "Part one: A story about productivity systems, personal growth, and
-  discovering alternatives to both"
+description: "I was on a podcast the other day, and the host asked me, 'Are you a startup CEO or a maintenance CEO?' Fifteen or even five years ago, I would have absolutely identified with the passionate, impulsive nature of the visionary—someone who’s good at kindling fires but bad at keeping them burning. My natural bent is to pour myself totally into some grand pursuit (and, if I’m being honest, to run hard and fast away from outcomes I dread). But at some point, that changed..."
 ---
 
 ## Part one: A story about productivity systems, personal growth, and discovering alternatives to both
