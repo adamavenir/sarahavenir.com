@@ -1,6 +1,7 @@
 ---
 title: My 90-minute workday
 date: 2011-12-20
+description: "They say that when you’re your own boss, you’ve got the worst boss in the world. It’s true. To myself, I am like the Attila the Hun of bosses. To others…well, I won’t put words in their mouths. But I imagine Attila the Hun wouldn’t be the one they’d compare me to..."
 ---
 They say that when you’re your own boss, you’ve got the worst boss in the world. It’s true. To myself, I am like the Attila the Hun of bosses. (To others…well, I won’t put words in their mouths. But I imagine Attila the Hun wouldn’t be the one they’d compare me to. I’m probably more of an Annie Oakley.)
 
