@@ -1,6 +1,7 @@
 ---
 title: "Being a Highly Sensitive Entrepreneur (Part three)"
 date: "2019-02-07"
+description: "When I was in the eighth grade, one of my teachers (who was also a self-proclaimed prophet) told me that the lesson I would need to learn in my life was 'Do not strive.' This is a wild and confusing thing to say to a 12 year old, which is probably why I’ve never been able to forget it..."
 ---
 
 When I was in the eighth grade, one of my teachers (who was also a self-proclaimed prophet) told me that the lesson I would need to learn in my life was “Do not strive.” This is a wild and confusing thing to say to a 12 year old, which is probably why I’ve never been able to forget it.
