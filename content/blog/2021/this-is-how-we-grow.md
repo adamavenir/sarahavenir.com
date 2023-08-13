@@ -1,6 +1,7 @@
 ---
 title: This is how we grow
 date: 2020-07-18T02:06:03.850Z
+description: "Only a few achieve the colossal task of holding together, without being split asunder, the clarity of their vision alongside an ability to take their place in a materialistic world. They are the modern heroes… Artists at least have a form within which they can hold their own conflicting opposites together. But there are some who have no recognized artistic form to serve this purpose, they are artists of the living. To my mind these last are the supreme heroes in our soulless society..."
 ---
 > “Only a few achieve the colossal task of holding together, without being split asunder, the clarity of their vision alongside an ability to take their place in a materialistic world. They are the modern heroes.... Artists at least have a form within which they can hold their own conflicting opposites together. But there are some who have no recognized artistic form to serve this purpose, they are artists of the living. To my mind these last are the supreme heroes in our soulless society.” —Irene Claremont de Castillejo, via David Whyte, The Heart Aroused
 
