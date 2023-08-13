@@ -1,6 +1,7 @@
 ---
 title: Gather the People Update
 date: 2018-05-24
+description: "So...fun update for you. But first I need to put on my confident zombie goddess face. I'm not sure why I need confident zombie goddess face for this? Well, I sort of do. I'm kind of self-conscious about my tendency to change things all the time. And if I know anything about goddesses, self-consciousness does not apply to them..."
 ---
 So...fun update for you.
 
