@@ -1,6 +1,7 @@
 ---
 title: "What to do when you’re stuck with a blank page"
 date: "2013-03-06"
+description: "Sometimes when I was starting a new story and I could not get it going...I would stand and look out over the roofs of Paris and think, 'Do not worry. You have always written before and you will write now. All you have to do is write one true sentence. Write the truest sentence that you know.' So finally I would write one true sentence and then go on from there..."
 ---
 
 > "Sometimes when I was starting a new story and I could not get it going...I would stand and look out over the roofs of Paris and think, 'Do not worry. You have always written before and you will write now. All you have to do is write one true sentence. Write the truest sentence that you know.' So finally I would write one true sentence and then go on from there." 
