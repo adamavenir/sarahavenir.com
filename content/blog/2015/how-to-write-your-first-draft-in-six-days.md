@@ -1,6 +1,7 @@
 ---
 title: "How to write your first draft in six days (a play in eleven acts)"
 date: "2015-01-15"
+description: "Act one: Get laid off. If that’s not possible, make some other kind of drastic/heroic/insane move that will make step number two possible..."
 ---
 
 ## Act one: Get laid off
