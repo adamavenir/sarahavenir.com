@@ -1,6 +1,7 @@
 ---
 title: "A systematic approach to marketing with empathy"
 date: "2018-06-20"
+description: "Last month, I wrote that I'm doing a complete re-write of Gather the People (rather than a heavy edit). Since then, as I've worked with the clients who will be sharing their triumphs and failures in the new edition, I've realized that the philosophies in the first edition are truly only half the story..."
 ---
 
 Last month, I wrote that I'm doing a complete re-write of [Gather the People](https://gatherthepeople.com/) (rather than a heavy edit). Since then, as I've worked with the clients who will be sharing their triumphs and failures in the new edition, I've realized that the philosophies in the first edition are truly only half the story. 
