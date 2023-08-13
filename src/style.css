@@ -347,7 +347,7 @@ hr {
   font-family: var(--font-heading);
 }
 
-.blog-post ol, ul {
+.blog-post ol, ul, blockquote {
   margin-left: 30px;
 }
 
