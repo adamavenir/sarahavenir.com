@@ -2,6 +2,7 @@
 title: The question we’re afraid to ask
 slug: the-question-were-afraid-to-ask
 date: 2021-01-19T18:41:10.876Z
+description: "During the pandemic, David Whyte (one of my favorite poets and thinkers) has been offering online seminars. I highly recommend them; they’ve been such a source of connection and belonging for me, even without a 'community' component (maybe especially without a community component, for an introvert like me). His wisdom and poetry is good medicine for the heart..."
 ---
 During the pandemic, [David Whyte](https://davidwhyte.com) (one of my favorite poets and thinkers) has been offering online seminars. I highly recommend them; they’ve been such a source of connection and belonging for me, even without a “community” component (maybe *especially* without a community component, for an introvert like me). His wisdom and poetry is good medicine for the heart.
 
