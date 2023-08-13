@@ -1,6 +1,7 @@
 ---
 title: "Being a Highly Sensitive Entrepreneur (Part two)"
 date: "2019-02-01"
+description: "I've always valued the privilege to deeply focus on whatever I'm working on, but I've strived to do this while still having multiple big projects and priorities going at the same time. It isn't that I enjoy that juggling act, but I've never seen another choice."
 ---
 
 I’ve always valued the privilege to deeply focus on whatever I’m working on, but I’ve strived to do this while still having multiple big projects and priorities going at the same time. It isn’t that I enjoy that juggling act, but I’ve never seen another choice.
