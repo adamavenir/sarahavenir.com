@@ -2,7 +2,7 @@
 title: Weird is practical
 date: 2020-12-08T02:43:59.817Z
 image: screen-shot-2021-01-18-at-6.46.01-pm.png
-description: "As the season of the weirdo at &yet is coming to a close, I wrote this piece to make a business case for weirdness...”
+description: "As the season of the weirdo at &yet is coming to a close, I wrote this piece to make a business case for weirdness..."
 ---
 ![A suitcase full of weird things, like a keytar, an "I love spreadsheets" hat, a high heeled shoe, and more.](screen-shot-2021-01-18-at-6.46.01-pm.png)
 
